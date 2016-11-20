@@ -5,6 +5,8 @@ import {CommonModule} from '@angular/common';
 import {RootComponent} from './root';
 import {WeatherModule} from './weather';
 
+import { MaterialModule } from '@angular/material';
+
 @NgModule({
   bootstrap: [RootComponent],
   declarations: [
@@ -14,6 +16,7 @@ import {WeatherModule} from './weather';
     AppShellModule,
     CommonModule,
     WeatherModule,
+    MaterialModule.forRoot()
   ],
 })
 export class AppModule {}
