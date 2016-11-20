@@ -11,6 +11,7 @@ import 'rxjs/add/operator/scan';
 import 'rxjs/add/operator/startWith';
 
 @Component({
+    moduleId: module.id,
     selector: 'dashboard',
     templateUrl: './dashboard.html',
 })

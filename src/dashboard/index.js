@@ -103,6 +103,7 @@ var DashboardComponent = (function () {
 }());
 DashboardComponent = __decorate([
     core_2.Component({
+        moduleId: module.id,
         selector: 'dashboard',
         templateUrl: './dashboard.html',
     }),
