@@ -9,20 +9,33 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require("@angular/core");
-require("rxjs/add/operator/do");
-var RootComponent = (function () {
-    function RootComponent() {
-        this.title = 'ngPoland3';
+var place_service_1 = require("../place.service");
+var PlaceListComponent = (function () {
+    function PlaceListComponent(placeService) {
+        this.placeService = placeService;
     }
-    return RootComponent;
+    PlaceListComponent.prototype.getPlaces = function () {
+        var _this = this;
+        this.placeService
+            .getPlaces()
+            .then(function (places) {
+            _this.places = places;
+            console.log(_this.places);
+        });
+        ;
+    };
+    PlaceListComponent.prototype.ngOnInit = function () {
+        this.getPlaces();
+    };
+    return PlaceListComponent;
 }());
-RootComponent = __decorate([
+PlaceListComponent = __decorate([
     core_1.Component({
         moduleId: module.id,
-        selector: 'app-root',
-        templateUrl: './root.html',
-        styleUrls: ['./root.css'],
+        selector: 'place-list',
+        templateUrl: './place-list.html',
+        styleUrls: ['./place-list.css']
     }),
-    __metadata("design:paramtypes", [])
-], RootComponent);
-exports.RootComponent = RootComponent;
+    __metadata("design:paramtypes", [place_service_1.PlaceService])
+], PlaceListComponent);
+exports.PlaceListComponent = PlaceListComponent;

@@ -8,6 +8,7 @@ var rimraf = require('rimraf');
 var rollup = require('rollup');
 var runSequence = require('run-sequence');
 var closure = require('google-closure-compiler-js');
+var connect = require('gulp-connect');
 var RollupRx = (function () {
     function RollupRx() {
     }
@@ -25,9 +26,8 @@ function closureCompilerPlugin(options) {
             var compilation = Object.assign({}, options, {
                 jsCode: options.jsCode ? options.jsCode.concat({ src: bundle }) : [{ src: bundle }]
             });
-            console.log('Hold on! Closure compiler is optimizing. It can take some time...');
+            console.log('- Closure compiler is optimizing. It can take minute or two...');
             var transformed = closure.compile(compilation);
-            console.log('Closure compiler optimizing complete');
             return { code: transformed.compiledCode, map: transformed.sourceMap };
         }
     };
@@ -35,15 +35,22 @@ function closureCompilerPlugin(options) {
 var build_1 = require("@angular/service-worker/build");
 gulp.task('build', function (done) { return runSequence('task:clean', 'task:ngc', 'task:rollup', 'task:shell', [
     'task:static',
-    'task:images',
+    'task:assets',
+], 'task:service-worker', 'task:worker-script', done); });
+gulp.task('build-noshell', function (done) { return runSequence('task:clean', 'task:ngc', 'task:rollup', 'task:no-shell', [
+    'task:static',
+    'task:assets',
 ], 'task:service-worker', 'task:worker-script', done); });
 gulp.task('task:clean', function (done) {
+    console.log('- Cleaning tmp and dist folders...');
     rimraf('tmp', function () { return rimraf('dist', function () { return done(); }); });
 });
 gulp.task('task:ngc', function () {
+    console.log('- Compiling Angular app using settings from tsconfig-esm.json...');
     childProcess.execSync('./node_modules/.bin/ngc -p tsconfig-esm.json');
 });
 gulp.task('task:rollup', function (done) {
+    console.log('- Rolling up using main-static.js as an entry...');
     rollup
         .rollup({
         entry: 'tmp/ngc/main-static.js',
@@ -66,36 +73,55 @@ gulp.task('task:rollup', function (done) {
     }); })
         .then(function () { return done(); }, function (err) { return console.error('output error', err); });
 });
-gulp.task('task:uglifyjs', function () {
-    fs.mkdirSync('tmp/uglifyjs');
-    childProcess.execSync('node_modules/.bin/uglifyjs -m --screw-ie8 tmp/rollup/app.js -o tmp/uglifyjs/app.min.js');
-});
 gulp.task('task:worker-script', function () { return gulp
     .src([
     'node_modules/@angular/service-worker/bundles/worker-basic.js',
 ])
     .pipe(gulp.dest('dist')); });
+gulp.task('task:shell', function () {
+    console.log('- Rendering app shell using main-universal-entry.js as an entry...');
+    childProcess.execSync('node ./main-universal-entry.js');
+});
 gulp.task('task:static', function () { return gulp
     .src([
     'manifest.webmanifest',
     'node_modules/zone.js/dist/zone.js',
     'node_modules/reflect-metadata/Reflect.js',
     'node_modules/@angular/material/core/theming/prebuilt/indigo-pink.css',
-    'tmp/app-shell/index.html',
+    'node_modules/bootstrap/dist/css/bootstrap.css',
     'tmp/rollup/app.js',
+    'tmp/app-shell/index.html',
+    'push-sw.js'
 ])
     .pipe(gulp.dest('dist')); });
-gulp.task('task:images', function () { return gulp
+gulp.task('task:no-shell', function () { return gulp
     .src([
-    'images/**/*.*',
+    'index.html',
 ])
-    .pipe(gulp.dest('dist/images')); });
-gulp.task('task:shell', function () {
-    childProcess.execSync('node ./main-universal-entry.js');
-});
+    .pipe(gulp.dest('dist')); });
+gulp.task('task:assets', function () { return gulp
+    .src([
+    'assets/**/*.*'
+])
+    .pipe(gulp.dest('dist/assets')); });
 gulp.task('task:service-worker', function () { return gulp
     .src('ngsw-manifest.json')
     .pipe(build_1.gulpAddStaticFiles(gulp.src([
     'dist/**/*.*'
 ]), { manifestKey: 'static' }))
     .pipe(gulp.dest('dist')); });
+gulp.task('connect', function () {
+    connect.server({
+        root: 'dist',
+        livereload: false,
+        port: 8080
+    });
+});
+gulp.task('html', function () {
+    gulp.src('./dist/*.*')
+        .pipe(connect.reload());
+});
+gulp.task('watch', function () {
+    gulp.watch(['./dist/*.*'], ['html']);
+});
+gulp.task('serve', ['connect', 'watch']);

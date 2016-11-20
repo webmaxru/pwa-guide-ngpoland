@@ -1,24 +1,24 @@
-  <md-toolbar color="primary">
+<md-toolbar color="primary">
 
     <span>{{title}}</span>
 
-  </md-toolbar>
+</md-toolbar>
 
+<md-progress-bar mode="indeterminate" *shellRender></md-progress-bar>
 
-<header class="header">
-  <h1 class="header__title">Weather PWA</h1>
-  <button (click)="refresh()" id="butRefresh" class="headerButton" aria-label="Refresh"></button>
-  <button (click)="showPicker()" id="butAdd" class="headerButton" aria-label="Add"></button>
-</header>
+<div *shellNoRender>
 
-<main class="main" *shellNoRender>
-  <weather-card *ngFor="let city of cities" [city]="city"></weather-card>
-</main>
-<md-progress-circle mode="indeterminate" *shellNoRender></md-progress-circle>
+    <place-list>555</place-list>
 
-<main class="main" *shellRender>
-  <h2>Loading...</h2>
-</main>
-<div class="dialog-container" [ngClass]="viewState">
-  <city-picker [cities]="weatherData.allCities" (save)="addCity($event)" (cancel)="onCancel($event)"></city-picker>
+    <md-tab-group>
+        <md-tab>
+            <template md-tab-label>Places</template>
+            <place-list>hhh</place-list>
+        </md-tab>
+        <md-tab>
+            <template md-tab-label>Edit place</template>
+            <p>...</p>
+        </md-tab>
+    </md-tab-group>
+
 </div>

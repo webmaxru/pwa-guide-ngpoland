@@ -20,9 +20,14 @@
     "@angular/platform-browser": "^2.1.0",
     "@angular/platform-browser-dynamic": "^2.1.0",
     "@angular/service-worker": "^0.7.1",
+    "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.13",
     "@types/node": "^6.0.45",
     "angular2-universal": "^2.1.0-rc.1",
     "angular2-universal-polyfills": "^2.1.0-rc.1",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^4.0.0-alpha.5",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
     "global": "^4.3.1",
     "google-closure-compiler-js": "^20160916.0.0",
     "gulp": "^3.9.1",
@@ -36,6 +41,10 @@
     "ts-node": "^1.4.3",
     "typescript": "^2.0.3",
     "uglifyjs": "^2.4.10",
+    "web-push": "^3.2.0",
     "zone.js": "^0.6.25"
+  },
+  "devDependencies": {
+    "gulp-connect": "^5.0.0"
   }
 }

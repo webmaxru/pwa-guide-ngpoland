@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Lazienki - Royal Residence Park",
+    "imgName": "lazienki-park.jpg",
+    "description": "",
+    "reviews": [
+      {
+        "text": "",
+        "date": ""
+      },
+      {
+        "text": "",
+        "date": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Warsaw Uprising Museum",
+    "imgName": "last-full-day-in-poland.jpg",
+    "description": "",
+    "reviews": [
+      {
+        "text": "",
+        "date": ""
+      },
+      {
+        "text": "",
+        "date": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Old Town Market Square",
+    "imgName": "rynek-starego-miasta.jpg",
+    "description": "",
+    "reviews": [
+      {
+        "text": "",
+        "date": ""
+      },
+      {
+        "text": "",
+        "date": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Castle Square (Plac Zamkowy)",
+    "imgName": "castle-square-warsaw.jpg",
+    "description": "",
+    "reviews": [
+      {
+        "text": "",
+        "date": ""
+      },
+      {
+        "text": "",
+        "date": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Copernicus Science Centre",
+    "imgName": "copernicus-science-centre.jpg",
+    "description": "This is a really vibrant and exciting facility, especially for kids. Even though there is not enough English translation to make it as good as it could be for English speaking.",
+    "reviews": [
+      {
+        "text": "",
+        "date": ""
+      },
+      {
+        "text": "",
+        "date": ""
+      }
+    ]
+  }
+]

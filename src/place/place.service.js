@@ -9,20 +9,23 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require("@angular/core");
-require("rxjs/add/operator/do");
-var RootComponent = (function () {
-    function RootComponent() {
-        this.title = 'ngPoland3';
+var http_1 = require("@angular/http");
+require("rxjs/add/operator/toPromise");
+var PlaceService = (function () {
+    function PlaceService(http) {
+        this.http = http;
+        this.headers = new http_1.Headers({ 'Content-Type': 'application/json' });
+        this.url = './assets/places.json';
     }
-    return RootComponent;
+    PlaceService.prototype.getPlaces = function () {
+        return this.http.get(this.url)
+            .toPromise()
+            .then(function (response) { return response.json(); });
+    };
+    return PlaceService;
 }());
-RootComponent = __decorate([
-    core_1.Component({
-        moduleId: module.id,
-        selector: 'app-root',
-        templateUrl: './root.html',
-        styleUrls: ['./root.css'],
-    }),
-    __metadata("design:paramtypes", [])
-], RootComponent);
-exports.RootComponent = RootComponent;
+PlaceService = __decorate([
+    core_1.Injectable(),
+    __metadata("design:paramtypes", [http_1.Http])
+], PlaceService);
+exports.PlaceService = PlaceService;

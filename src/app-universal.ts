@@ -6,6 +6,7 @@ import 'rxjs/add/observable/of';
 
 import {AppModule} from './app';
 import {RootComponent} from './root';
+
 import {WeatherAPI} from './weather/api';
 import {CITIES} from './weather/cities';
 import {Storage, InMemoryStorage} from './storage';

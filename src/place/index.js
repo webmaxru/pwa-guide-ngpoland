@@ -8,34 +8,32 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-var app_shell_1 = require("@angular/app-shell");
 var core_1 = require("@angular/core");
 var common_1 = require("@angular/common");
-var root_1 = require("./root");
-var place_1 = require("./place");
-var dashboard_1 = require("./dashboard");
+var place_service_1 = require("./place.service");
+var place_list_1 = require("./place-list");
 var material_1 = require("@angular/material");
-var ng_bootstrap_1 = require("@ng-bootstrap/ng-bootstrap");
-var AppModule = (function () {
-    function AppModule() {
+var PlaceModule = (function () {
+    function PlaceModule() {
     }
-    return AppModule;
+    return PlaceModule;
 }());
-AppModule = __decorate([
+PlaceModule = __decorate([
     core_1.NgModule({
-        bootstrap: [root_1.RootComponent],
         declarations: [
-            root_1.RootComponent
+            place_list_1.PlaceListComponent
+        ],
+        exports: [
+            place_list_1.PlaceListComponent
         ],
         imports: [
-            app_shell_1.AppShellModule,
             common_1.CommonModule,
-            place_1.PlaceModule,
-            dashboard_1.DashboardModule,
-            material_1.MaterialModule.forRoot(),
-            ng_bootstrap_1.NgbModule.forRoot()
+            material_1.MaterialModule.forRoot()
+        ],
+        providers: [
+            place_service_1.PlaceService
         ]
     }),
     __metadata("design:paramtypes", [])
-], AppModule);
-exports.AppModule = AppModule;
+], PlaceModule);
+exports.PlaceModule = PlaceModule;

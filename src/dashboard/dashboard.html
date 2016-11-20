@@ -1,0 +1,44 @@
+<div>
+  <label for="actionSelect">
+    Select an action
+  </label>
+  <select #actionSelect id="actionSelect" (change)="actionSelected($event.target.value)">
+    <option disabled selected>...</option>
+    <option value="MAKE_REQUEST">Make an HTTP request</option>
+    <option value="CACHE_KEYS">Get cache keys</option>
+    <option value="SW_CHECK">Check service worker</option>
+    <option value="SW_INSTALL">Install service worker</option>
+    <option value="COMPANION_PING">Ping from the companion</option>
+    <option value="COMPANION_REG_PUSH">Register for push notifications</option>
+    <option value="FORCE_UPDATE">Force an update</option>
+    <option value="RESET">Reset</option>
+  </select>
+  <span *ngIf="alert" id="alert">ASYNC ALERT</span>
+  <input id="actionInput" #actionInput [(ngModel)]="action">
+  <button id="actionExec" (click)="refresh(actionInput.value)">Exec</button>
+</div>
+
+<!-- action configuration -->
+<div [ngSwitch]="action">
+  <div *ngSwitchCase="'MAKE_REQUEST'">
+    <div>
+      <label for="requestUrl">
+        Url:
+      </label>
+      <input #requestUrl id="requestUrl">
+    </div>
+    <button id="requestAction" (click)="request(requestUrl.value)">Make request</button>
+  </div>
+  <div *ngSwitchCase="'SW_INSTALL'">
+    <div>
+      <label for="workerUrl">
+        Worker:
+      </label>
+      <input #workerUrl id="workerUrl">
+    </div>
+    <button id="installAction" (click)="installWorker(workerUrl.value)">Install service worker</button>
+  </div>
+</div>
+
+<pre id="result">{{result}}</pre>
+<pre id="log">{{log | json}}</pre>

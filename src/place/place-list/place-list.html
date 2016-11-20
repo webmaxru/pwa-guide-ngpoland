@@ -1,0 +1,11 @@
+<md-list>
+  <md-list-item *ngFor="let place of places">
+    <img md-list-avatar src="/assets/img/{{place.imgName}}" alt="{{place.title}}">
+    <h3 md-line>
+      {{place.title}}
+    </h3>
+    <p md-line *ngIf="place.abstract">
+      {{place.description}}
+    </p>
+  </md-list-item>
+</md-list>

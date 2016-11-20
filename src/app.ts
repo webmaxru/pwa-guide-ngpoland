@@ -3,20 +3,27 @@ import {NgModule} from '@angular/core';
 import {CommonModule} from '@angular/common';
 
 import {RootComponent} from './root';
-import {WeatherModule} from './weather';
 
-import { MaterialModule } from '@angular/material';
+import {PlaceModule} from './place';
+import {DashboardModule} from './dashboard';
+
+import {MaterialModule} from '@angular/material';
+import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
-  bootstrap: [RootComponent],
-  declarations: [
-    RootComponent,
-  ],
-  imports: [
-    AppShellModule,
-    CommonModule,
-    WeatherModule,
-    MaterialModule.forRoot()
-  ],
+    bootstrap: [RootComponent],
+    declarations: [
+        RootComponent
+    ],
+    imports: [
+        AppShellModule,
+        CommonModule,
+
+        PlaceModule,
+        DashboardModule,
+
+        MaterialModule.forRoot(),
+        NgbModule.forRoot()
+    ]
 })
-export class AppModule {}
+export class AppModule { }
