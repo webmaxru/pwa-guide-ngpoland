@@ -1,3 +1,10 @@
+  <md-toolbar color="primary">
+
+    <span>{{title}}</span>
+
+  </md-toolbar>
+
+
 <header class="header">
   <h1 class="header__title">Weather PWA</h1>
   <button (click)="refresh()" id="butRefresh" class="headerButton" aria-label="Refresh"></button>
@@ -7,6 +14,8 @@
 <main class="main" *shellNoRender>
   <weather-card *ngFor="let city of cities" [city]="city"></weather-card>
 </main>
+<md-progress-circle mode="indeterminate" *shellNoRender></md-progress-circle>
+
 <main class="main" *shellRender>
   <h2>Loading...</h2>
 </main>

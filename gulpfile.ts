@@ -22,9 +22,9 @@ function closureCompilerPlugin(options: any = {}){
       const compilation = Object.assign({}, options, {
         jsCode: options.jsCode ? options.jsCode.concat({ src: bundle }) : [{ src: bundle }]
       });
-	  console.log('closure compiler optimizing...');
+	  console.log('Hold on! Closure compiler is optimizing. It can take some time...');
       const transformed = closure.compile(compilation);
-	  console.log('closure compiler optimizing complete');
+	  console.log('Closure compiler optimizing complete');
 	  return { code: transformed.compiledCode, map: transformed.sourceMap };
     }
   }
@@ -94,6 +94,8 @@ gulp.task('task:static', () => gulp
   .src([
     'manifest.webmanifest',
     'node_modules/zone.js/dist/zone.js',
+    'node_modules/reflect-metadata/Reflect.js',
+    'node_modules/@angular/material/core/theming/prebuilt/indigo-pink.css',
     'tmp/app-shell/index.html',
     'tmp/rollup/app.js',
   ])

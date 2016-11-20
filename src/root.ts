@@ -10,8 +10,10 @@ import 'rxjs/add/operator/do';
 	styleUrls: ['./root.css'],
 })
 export class RootComponent {
-  viewState = {}
+  viewState = {};
   cities = [];
+  title:String = 'ngPoland';
+
   constructor(public weatherData:WeatherData){
     weatherData.cities
       .do(cities => console.log('cities', cities))

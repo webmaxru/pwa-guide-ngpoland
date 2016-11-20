@@ -15,7 +15,8 @@
     "outDir": "tmp/ngc",
     "target": "es5",
     "types": [
-      "node"
+      "node",
+      "hammerjs"
     ]
   },
   "files": [

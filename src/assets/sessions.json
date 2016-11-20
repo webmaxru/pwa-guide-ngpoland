@@ -1,0 +1,5775 @@
+[
+  {
+    "title": [
+      {
+        "text": "Enabling Voice Interactive Experiences with Smart Home Skill API",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=64e5f59b-ffb0-42e2-ab27-9a8cb891dbda"
+      }
+    ],
+    "photo": [
+      {
+        "src": "./assets/fallback/avatars/db0f8d07-425b-4379-b55b-e6170dbc8aa2.jpeg"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Michael Palermo",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MichaelPalermo"
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn how to create custom voice interactive experiences for smart home automation."
+      }
+    ],
+    "interested": [
+      {
+        "text": "3"
+      }
+    ],
+    "tags": [
+      {
+        "text": "#smarthome",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=%23smarthome"
+      },
+      {
+        "text": "#alexa",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=%23alexa"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Optimizing the HealthCare Industry through Technology",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=1b510b88-3847-4f33-b6da-eb9a7ef64d32"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "CJ Wang",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#CJWang"
+      }
+    ],
+    "photo": [
+      {
+        "src": "./assets/fallback/avatars/39659d00-e898-426f-a8c0-25bda69a9471.jpeg"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "While the government attempts to make the healthcare more affordable, we can also help to make it more efficient and accurate. This session explains from an engineer's perspective how we can contribute to this industry and make the technology more meaningful to the people."
+      }
+    ],
+    "level": [
+      {
+        "text": "300"
+      }
+    ],
+    "interested": [
+      {
+        "text": "3"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Developing Awesome 3D Games with Unity and C#",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=af617a99-6dfc-450b-a567-3eaa48bc1b69"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Adam Tuliper",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#AdamTuliper"
+      }
+    ],
+    "photo": [
+      {
+        "src": "./assets/fallback/avatars/342e6352-984a-46ae-8589-60fcebf0d680.jpeg"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn some simple but powerful 2D/3D application techniques to quickly get up and running with Unity - the premier advanced platform to develop stunning 2D and 3D applications and games for all major desktop and mobile platforms using C#. Come learn about the basics of Unity, the UI, assets, code, ways to develop, and some simple but powerful game techniques."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "9"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Unity",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Unity"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Managing secrets & SSL certificates with Docker containers",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=cdf77899-2065-4218-82c8-b80b0c065b79"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Miska Kaipiainen",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MiskaKaipiainen"
+      }
+    ],
+    "photo": [
+      {
+        "src": "./assets/fallback/avatars/67810a7e-01c9-49f6-b3c8-ca9c3ec847c2.jpeg"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Security is oftentimes considered a stumbling block for especially larger Docker container deployments. In this session we are considering container security and especially securing and managing secrets such as passwords, API keys and SSL certificates. Examples and hands-on demos using Kontena container & microservices platform."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "15"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Security",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Security"
+      },
+      {
+        "text": "secrets",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=secrets"
+      },
+      {
+        "text": "microservices",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=microservices"
+      },
+      {
+        "text": "kontena",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=kontena"
+      },
+      {
+        "text": "docker",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=docker"
+      },
+      {
+        "text": "devops",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=devops"
+      },
+      {
+        "text": "containers",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=containers"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "How to choose container platform?",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=206db240-7751-4571-ab25-944722b38f74"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Miska Kaipiainen",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MiskaKaipiainen"
+      }
+    ],
+    "photo": [
+      {
+        "src": "./assets/fallback/avatars/67810a7e-01c9-49f6-b3c8-ca9c3ec847c2.jpeg"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Docker container platform market analysis with pros and cons of various solutions. We'll also discuss what does it take to create your very own container platform with all the bells and whistles!"
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "12"
+      }
+    ],
+    "tags": [
+      {
+        "text": "platforms",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=platforms"
+      },
+      {
+        "text": "kontena",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=kontena"
+      },
+      {
+        "text": "docker",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=docker"
+      },
+      {
+        "text": "devops",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=devops"
+      },
+      {
+        "text": "containers",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=containers"
+      },
+      {
+        "text": "Cloud",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Cloud"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Test-Driven Development: Write Better Code, Faster",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=41fd015f-7ad5-4666-8c13-33f09de91613"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Evan Dorn",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#EvanDorn"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=f1e6d103-a435-456e-b0da-34a2de71d71d"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Tests aren't just for catching errors. We use TDD - the process - because it helps us get our job done faster."
+      }
+    ],
+    "level": [
+      {
+        "text": "300"
+      }
+    ],
+    "interested": [
+      {
+        "text": "60"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Testing",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Testing"
+      },
+      {
+        "text": "test-driven development",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=test-driven+development"
+      },
+      {
+        "text": "TDD",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=TDD"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Elixir / Phoenix: the Next Great Thing",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=1616aca7-50ba-4f70-b713-c7722cb12337"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Evan Dorn",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#EvanDorn"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=f1e6d103-a435-456e-b0da-34a2de71d71d"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Elixir is a new language that uses the Erlang VM to produce astonishing performance and reliability in a Ruby-like developer-friendly environment. It's built from the ground up for distributed, concurrent computation. Phoenix is a lightning fast web server framework written in Elixir. This is an overview and introduction to this exciting new world."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "15"
+      }
+    ],
+    "tags": [
+      {
+        "text": "WEB",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=WEB"
+      },
+      {
+        "text": "Phoenix",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Phoenix"
+      },
+      {
+        "text": "Erlang",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Erlang"
+      },
+      {
+        "text": "Elixir",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Elixir"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Exploring C# 7 New Features",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=de35765d-d101-4b04-8ba5-37c27e83a79d"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Adam Tuliper",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#AdamTuliper"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=342e6352-984a-46ae-8589-60fcebf0d680"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "C# brings long requested features to what is already a powerful language. In this session, we'll explore where C# 6 left off and C# 7 picks up to include features such as pattern matching to do advanced comparisons with values in objects, local functions for function-in-function support (which can be better than anonymous if you understand their use cases), and tuple value types."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "37"
+      }
+    ],
+    "tags": [
+      {
+        "text": "C#",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=C%23"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Getting Started with the HoloLens",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=867acafd-4316-4679-8089-848aec537d8e"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Adam Tuliper",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#AdamTuliper"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=342e6352-984a-46ae-8589-60fcebf0d680"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Come and learn about the HoloLens, a new mixed reality device from Microsoft. We'll look at its ability to run 2D Windows applications to 3D Mixed Reality experiences and explore what makes the HoloLens unique, with its three pillars of input - Gaze, Gesture, and Voice."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "25"
+      }
+    ],
+    "tags": [
+      {
+        "text": "HoloLens",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=HoloLens"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Agile Safety-Critical C++",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=f28deed1-d4b8-454e-acef-5ded10f240fa"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Robin Rowe",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#RobinRowe"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=359f9810-587b-4469-b9ac-1df28e5ac9e6"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "How do we prevent and detect code errors in C++ programs? How do we meet requirements for safety, real-time performance and long-term reliability? Presentation and lively Q&A."
+      }
+    ],
+    "level": [
+      {
+        "text": "400"
+      }
+    ],
+    "interested": [
+      {
+        "text": "12"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Agile",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Agile"
+      },
+      {
+        "text": "Aerospace",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Aerospace"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Test-Driven Protocol-Oriented Functional-Reactive\u00ad MVVM in iOS Development",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=47b60d90-c48c-437c-b4e7-5946ba819474"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Garric Nahapetian",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#GarricNahapetian"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=10c9cf6a-3e46-4dd9-8ab2-e20701ba90b8"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "I'll walk you through how we're using TD-PO-FR-MVVM at Farmers to make programming fun, and make our code highly readable, testable, and scaleable."
+      }
+    ],
+    "level": [
+      {
+        "text": "300"
+      }
+    ],
+    "interested": [
+      {
+        "text": "18"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Testing",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Testing"
+      },
+      {
+        "text": "swift",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=swift"
+      },
+      {
+        "text": "Reactive",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Reactive"
+      },
+      {
+        "text": "protocol oriented",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=protocol+oriented"
+      },
+      {
+        "text": "MVVM",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=MVVM"
+      },
+      {
+        "text": "iOS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=iOS"
+      },
+      {
+        "text": "Functional",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Functional"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Bots are the new apps. BotFramework Using Node.js and LUIS.ai",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=7e9b7e09-e861-4f70-bc7f-46f5a9e6ac6e"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Justine Cocchi",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JustineCocchi"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=bdef6ce3-96bf-45e1-a06e-0cd8d7eea61c"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "In this session we will be showing you the ins and outs of the bot framework using the node.js SDK. In addition, we will be covering LUIS.ai, a natural language processing application that allows you to take text and derive both intents and entities in order to use them in your bot."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "35"
+      }
+    ],
+    "tags": [
+      {
+        "text": "node",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=node"
+      },
+      {
+        "text": "bots",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=bots"
+      },
+      {
+        "text": "Azure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Azure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Hello? Is it me you’re looking for… (Face and Voice Recognition)",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=6c80ecf7-8ea4-4f75-b974-6271951d22b5"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Daniel Egan",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#DanielEgan"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=5e54c53c-0a6f-40dc-b687-6c1656c9d187"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "In this session, we will be using Azure Cognitive services Face and Voice recognition along with a raspberry pi and camera with VSCode to authenticate and verify the person trying to gain access. We will be using Nodejs, running on raspbian that connects to the could. Come join the fun and see how you can add this to your own app."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "34"
+      }
+    ],
+    "tags": [
+      {
+        "text": "cognitive services",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=cognitive+services"
+      },
+      {
+        "text": "Azure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Azure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Wackcoon Catching a predator with technology (node, IoT, Cog Services, git)",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=25a5664f-af3b-48b9-94e2-d12da1a3c0ed"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Daniel Egan",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#DanielEgan"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=5e54c53c-0a6f-40dc-b687-6c1656c9d187"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "It this session we will be looking at Node.js through the eyes of a specific application. In this session, we will using Node.js, socket.io, Azure cognitive services and VSCode to detect “critters” and shoot water at them to keep them away from your pond/garden/flowers/whatever. In addition, we will show you a really cool way to deploy to a raspberry pi using a git hook. Don’t miss this fun session"
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "19"
+      }
+    ],
+    "tags": [
+      {
+        "text": "node",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=node"
+      },
+      {
+        "text": "Azure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Azure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Intro to GraphQL: A query language for your API",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=60fc9814-3b32-4de5-a584-2f22b421036f"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Tom Bray",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#TomBray"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=da6c8fcf-37c5-4704-a5a7-1cd30d7599c0"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Do your mobile clients have to make more than one request to get the data they need? Do the responses from your RESTful endpoints contain more data than your single page app needs? GraphQL provides an elegant solution to these problems and more, allowing your clients to ask for what they need, and get exactly that, in a single request."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "41"
+      }
+    ],
+    "tags": [
+      {
+        "text": "mobile development",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=mobile+development"
+      },
+      {
+        "text": "API",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=API"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Testing tools for the frontend",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=35057d95-4c3a-4ac6-9e76-966a97606c19"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Ashok Modi",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#AshokModi"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=4d4466cb-7123-488b-8595-6722b0943c39"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "We will talk about why testing your frontend matters, tools you can use for frontend testing (both Visual Regression Testing and Performance Testing) and how to tie it all together into your workflow."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "62"
+      }
+    ],
+    "tags": [
+      {
+        "text": "front-end",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=front-end"
+      },
+      {
+        "text": "automated testing",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=automated+testing"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Build your first Amazon Alexa Skill",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=e68b589b-3f3d-4345-a1ec-5501fdda56f1"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Kevin Epstein",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#KevinEpstein"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=b317dd9c-6159-4751-b2f1-e2e1bbfd3c78"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "An introduction to the Amazon Echo, and how to go about building your first Alexa Skill."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "30"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Skills",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Skills"
+      },
+      {
+        "text": "lambda",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=lambda"
+      },
+      {
+        "text": "Echo",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Echo"
+      },
+      {
+        "text": "AWS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=AWS"
+      },
+      {
+        "text": "Alexa",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Alexa"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Testing in ASP.NET Core with XUnit and MoQ",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=3273da20-0715-41ec-8d3e-2e6d7402c2bf"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Rob Richardson",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#RobRichardson"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=a04735d0-5cdb-4007-ac3d-fcefb91dcb81"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "ASP.NET Core has been designed from the ground up with testability in mind. XUnit is the testing framework the ASP.NET team uses to test their own code. Let's add some tests to a sample ASP.NET Core project, and see how easy it is to strip away dependencies not necessary for the test."
+      }
+    ],
+    "level": [
+      {
+        "text": "300"
+      }
+    ],
+    "interested": [
+      {
+        "text": "27"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Testing",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Testing"
+      },
+      {
+        "text": "asp.net core",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=asp.net+core"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Anatomy of a Web Request",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=a7ea646e-0252-4a7e-a608-c5ee2902135f"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Rob Richardson",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#RobRichardson"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=a04735d0-5cdb-4007-ac3d-fcefb91dcb81"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "What happens after you type the web address before the page renders? Is it a black box to you? It doesn't need to be. We'll peel back the onion and look at DNS, HTTP, TLS, and briefly discuss the client render pipeline and windows metaphors. Ultimately we'll see the internet is not a black box. Open the lid and look inside."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "80"
+      }
+    ],
+    "tags": [
+      {
+        "text": "WEB",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=WEB"
+      },
+      {
+        "text": "ssl",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=ssl"
+      },
+      {
+        "text": "how does it work",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=how+does+it+work"
+      },
+      {
+        "text": "DNS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=DNS"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Welcome to Docker",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=d21fcec0-f6d5-45ae-b6fd-886f911f80af"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Rob Richardson",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#RobRichardson"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=a04735d0-5cdb-4007-ac3d-fcefb91dcb81"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Docker is carefully tucked between virtualization, continuous deployment, and pure awesome. We'll look at the commands and ecosystem around building infrastructure as code, deploying a swarm, and sharing images on Docker Hub. We'll see how easy it is to create Linux and Windows docker images. Come see why devs and ops love Docker."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "71"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Windows",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Windows"
+      },
+      {
+        "text": "Linux",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Linux"
+      },
+      {
+        "text": "docker",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=docker"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "What is this .NET Core thing anyway?",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=899ba445-41d4-4eaa-a886-7a060d2958cf"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Rob Richardson",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#RobRichardson"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=a04735d0-5cdb-4007-ac3d-fcefb91dcb81"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Have you heard the buzz? .NET Core 1.0 is released. Want to get started and don't know where to look? Or played with some old betas and want to get restarted? Come journey with us through the fundamental principles of .NET Core, look at how these evolved during the development of .NET Core, and see how you can get started today building and deploying .NET Core products."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "44"
+      }
+    ],
+    "tags": [
+      {
+        "text": "asp.net core",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=asp.net+core"
+      },
+      {
+        "text": ".NET Core",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=.NET+Core"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "What's really the difference between a VM and a Container?",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=d696cd8f-a0b4-4662-b220-7198a2ddc701"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Adrian Otto",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#AdrianOtto"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=367beefe-8fda-41fd-9f5d-47e856cd2af2"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Docker, Kubernetes, Mesos, and the container buzzword bingo game leaves us all asking this same question at some point. We know VMs are great, so why all this fuss now about containers? Are they the same thing, but better?"
+      }
+    ],
+    "interested": [
+      {
+        "text": "41"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Mesos",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Mesos"
+      },
+      {
+        "text": "Kubernetes",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Kubernetes"
+      },
+      {
+        "text": "docker",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=docker"
+      },
+      {
+        "text": "containers",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=containers"
+      },
+      {
+        "text": "cloud computing",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=cloud+computing"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Build Your Own Open Source Cloud",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=0c697f4f-f330-4c16-bb32-8bd3cc91d7b6"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Adrian Otto",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#AdrianOtto"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=367beefe-8fda-41fd-9f5d-47e856cd2af2"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "A roadmap for using OpenStack to build an IaaS and/or PaaS for cloud workloads you want to run internally. You need a weapon to fight shadow IT on the cloud, and the answer is to give your developers and engineers what they want: a real cloud."
+      }
+    ],
+    "interested": [
+      {
+        "text": "18"
+      }
+    ],
+    "tags": [
+      {
+        "text": "PaaS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=PaaS"
+      },
+      {
+        "text": "IaaS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=IaaS"
+      },
+      {
+        "text": "docker",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=docker"
+      },
+      {
+        "text": "containers",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=containers"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Windows 10 IoT Core on the Raspberry Pi",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=77633ef1-a501-41bc-b941-c63ae64ec3da"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Bret Stateham",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BretStateham"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=b0a8ffd5-38c9-41d8-bdb0-f63033a8b242"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Windows 10 IoT Core is a special edition of Windows 10 that runs on IoT Devices like the Raspberry Pi. In this session I'll show you how easy it is to get started developing IoT Solutions with Windows 10 IoT Core and the Raspberry Pi 3."
+      }
+    ],
+    "interested": [
+      {
+        "text": "18"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Windows 10 IoT Core",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Windows+10+IoT+Core"
+      },
+      {
+        "text": "IoT",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=IoT"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Debugging Node.js with Visual Studio Code",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=a9514d33-371c-49b2-841f-f2eacbd8676d"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Bret Stateham",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BretStateham"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=b0a8ffd5-38c9-41d8-bdb0-f63033a8b242"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Node.js is a powerful langauge for all kinds of applications. Visual Studio Code is a powerful, FREE tool for developing in all kinds of languages. In this session I'll show you how easy it is to get started debugging your Node.js applications using Visual Studio code. Including step through debugging on both local and remote machines and even integration with git."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "44"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Visual Studio Code",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Visual+Studio+Code"
+      },
+      {
+        "text": "node.js",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=node.js"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Azure IoT - A Complete Backend Solution",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=2f15ff85-5973-4ffd-8721-95da3fc5f971"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Bret Stateham",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BretStateham"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=b0a8ffd5-38c9-41d8-bdb0-f63033a8b242"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "There are a lot of IoT Demos that focus on just showing some data in the cloud. In this session Bret Stateham will walk through a full back-end IoT solution in Azure. From wireless connectify for the device using Ingenu's RPMA technology, to message ingestion, hot-and cold path analytics, storage, and reporting. Come to learn more about Azure IoT Hubs, Stream Analytics, Event Hubs, Functions, SQL Database, Web Apps, and Power BI."
+      }
+    ],
+    "level": [
+      {
+        "text": "300"
+      }
+    ],
+    "interested": [
+      {
+        "text": "15"
+      }
+    ],
+    "tags": [
+      {
+        "text": "wireless",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=wireless"
+      },
+      {
+        "text": "IoT",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=IoT"
+      },
+      {
+        "text": "Azure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Azure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "IoT and WordPress, a marriage made in the Cloud!",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=f8178440-8cf9-4fdc-9e6c-175d8187b162"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Bret Stateham",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BretStateham"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=b0a8ffd5-38c9-41d8-bdb0-f63033a8b242"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "IoT and WordPress aren't two thing you likely think of together, but in this session Bret Stateham and James Earle will show you Integrate your IoT Solutions with your Wordpress Blogs! Topics covered n this session include the ESP8266 device, Azure IoT Hubs, Azure Functions and Azure Web Apps!"
+      }
+    ],
+    "interested": [
+      {
+        "text": "12"
+      }
+    ],
+    "tags": [
+      {
+        "text": "WordPress",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=WordPress"
+      },
+      {
+        "text": "IoT",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=IoT"
+      },
+      {
+        "text": "Azure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Azure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Let's build an app with React Native!",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=e2737d07-c295-4c3f-a0bf-babec147dfdc"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Elijah Scheele",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#ElijahScheele"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=bba34259-94b6-40ad-bc1d-c331765ecc70"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Starting from scratch we'll build a cross-platform mobile application targeting Android and iOS. During this session, we'll review concepts like Components, state, properties, styling, layouts, and all of the other things that make React Native great!"
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "69"
+      }
+    ],
+    "tags": [
+      {
+        "text": "React Native",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=React+Native"
+      },
+      {
+        "text": "mobile development",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=mobile+development"
+      },
+      {
+        "text": "iOS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=iOS"
+      },
+      {
+        "text": "Android",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Android"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Intro to Mobile Application Development with React Native",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=bb5bb533-00e2-486f-8cbe-b150214e8e6c"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Elijah Scheele",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#ElijahScheele"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=bba34259-94b6-40ad-bc1d-c331765ecc70"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "React Native is a tool developed by Facebook that powers apps by Facebook, Instagram, Airbnb, and thousands of other iOS and Android applications. Come learn how React Native works and how to get started with it at this session."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "73"
+      }
+    ],
+    "tags": [
+      {
+        "text": "React Native",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=React+Native"
+      },
+      {
+        "text": "iOS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=iOS"
+      },
+      {
+        "text": "Android",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Android"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Applying Software Craftsmanship",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=bcf3cc73-b12a-4008-9f6d-e99ff8347dc5"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Dave Moore",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#DaveMoore"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=df3f34ec-d5cf-4660-9905-306c4b165f54"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "This talk will introduce software craftsmanship, explain how it is especially relevant, and go over how each of us can apply it at the individual, organization, and community levels."
+      }
+    ],
+    "interested": [
+      {
+        "text": "49"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Soft Skills",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Soft+Skills"
+      },
+      {
+        "text": "Craftsmanship",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Craftsmanship"
+      },
+      {
+        "text": "career",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=career"
+      },
+      {
+        "text": "Best Practices",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Best+Practices"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Introduction to Game Development with JavaScript",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=916443b4-9afc-43a3-ab04-adacc39c2a07"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Kayla McKinney",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#KaylaMcKinney"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=2c432be2-9833-47a6-9013-cf3768192460"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn the Basics of Construct 2 by Scirra. Create HTML5 games quickly with Construct 2: the game engine that gives you all the tools you need to create the games we all love to play.... Read More..."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "38"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Scirra",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Scirra"
+      },
+      {
+        "text": "JS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JS"
+      },
+      {
+        "text": "HTML5",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=HTML5"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Build a Cloud Workshop (part 4 of 4)",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=e60c9778-458b-4a4c-a29b-26156a285f7c"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Brian Bennett",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BrianBennett"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=f388c2e9-ea73-40a7-a706-7f315fcf81c3"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "LOPSA LA presents Build a Cloud Workshop w/Brian Bennett. Attendees will install Joyent Triton Data Center on their laptop, turning it into an private cloud complete with a head node and compute nodes, and a gorgeous admin UI. We will then plug into a LAN and assign the compute nodes to one head node, demonstrating cloud scale out."
+      }
+    ],
+    "interested": [
+      {
+        "text": "14"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Infrastructure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Infrastructure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Build a Cloud Workshop (part 3 of 4)",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=2bad5160-9942-43af-bdf2-f8a246ef14b4"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Brian Bennett",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BrianBennett"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=f388c2e9-ea73-40a7-a706-7f315fcf81c3"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "LOPSA LA presents Build a Cloud Workshop w/Brian Bennett. Attendees will install Joyent Triton Data Center on their laptop, turning it into an private cloud complete with a head node and compute nodes, and a gorgeous admin UI. We will then plug into a LAN and assign the compute nodes to one head node, demonstrating cloud scale out."
+      }
+    ],
+    "interested": [
+      {
+        "text": "15"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Infrastructure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Infrastructure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Build a Cloud Workshop (part 2 of 4)",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=b8c1d010-3fee-40a9-833b-8ae798bb0657"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Brian Bennett",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BrianBennett"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=f388c2e9-ea73-40a7-a706-7f315fcf81c3"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "LOPSA LA presents Build a Cloud Workshop w/Brian Bennett. Attendees will install Joyent Triton Data Center on their laptop, turning it into an private cloud complete with a head node and compute nodes, and a gorgeous admin UI. We will then plug into a LAN and assign the compute nodes to one head node, demonstrating cloud scale out."
+      }
+    ],
+    "interested": [
+      {
+        "text": "16"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Infrastructure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Infrastructure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Build a Cloud Workshop (part 1 of 4)",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=c3f7ce15-74ad-4414-af41-be8410835294"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Brian Bennett",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BrianBennett"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=f388c2e9-ea73-40a7-a706-7f315fcf81c3"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "LOPSA LA presents Build a Cloud Workshop w/Brian Bennett. Attendees will install Joyent Triton Data Center on their laptop, turning it into an private cloud complete with a head node and compute nodes, and a gorgeous admin UI. We will then plug into a LAN and assign the compute nodes to one head node, demonstrating cloud scale out."
+      }
+    ],
+    "interested": [
+      {
+        "text": "19"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Infrastructure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Infrastructure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Real Time Analytics at Scale with Druid",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=d709af11-183e-4095-ba51-d7ae39c3b010"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Guillaume TORCHE",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#GuillaumeTORCHE"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=085af306-07a5-4007-9ed2-763ffaec6052"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "GumGum uses Druid to ingest more than 30 billion events every day, which can be queried almost as soon as they happen with a very low response time. This is a tell-all talk about GumGum’s love story with Druid, how Druid works and how GumGum leverages Druid’s capabilities."
+      }
+    ],
+    "level": [
+      {
+        "text": "300"
+      }
+    ],
+    "interested": [
+      {
+        "text": "14"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Lambda Architecture",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Lambda+Architecture"
+      },
+      {
+        "text": "Druid",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Druid"
+      },
+      {
+        "text": "Big Data",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Big+Data"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Lambda Architecture",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=e80d2c3d-d69b-44e4-9db1-373794c4d4a9"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Vaibhav Puranik",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#VaibhavPuranik"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=0c1a5921-d32b-4990-a63e-5cb7795e0ce6"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Nathan Marz, creator of Apache Storm came up with the term Lambda Architecture. He describes it in his popular book 'Big Data'. It helps build a scalable and fault tolerent data systems."
+      }
+    ],
+    "level": [
+      {
+        "text": "300"
+      }
+    ],
+    "interested": [
+      {
+        "text": "30"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Storm",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Storm"
+      },
+      {
+        "text": "spark",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=spark"
+      },
+      {
+        "text": "Hadoop",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Hadoop"
+      },
+      {
+        "text": "Data Engineering",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Data+Engineering"
+      },
+      {
+        "text": "Big Data",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Big+Data"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Introduction to Big Data",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=b7df1a89-8024-46aa-aef3-956e60e58aed"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Vaibhav Puranik",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#VaibhavPuranik"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=0c1a5921-d32b-4990-a63e-5cb7795e0ce6"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Big Data is a vague term. What does it really mean? How is it used in the industry? What are the common techniques and software used? This talk will try to introduce various subdomains of big data to a newbie."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "81"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Machine Learning",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Machine+Learning"
+      },
+      {
+        "text": "Big Data",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Big+Data"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Lean Thinking and the Agile User Story",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=def589f0-caaf-479f-91ac-fc613c7a7f31"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "James Lang",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JamesLang"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=0628c2cd-12d9-48c5-929a-91b514da00e5"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "A Gentle introduction to Lean Thinking and User Stories in Agile-Scrum software development."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "34"
+      }
+    ],
+    "tags": [
+      {
+        "text": "User Stories",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=User+Stories"
+      },
+      {
+        "text": "Scrum",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Scrum"
+      },
+      {
+        "text": "Project Management",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Project+Management"
+      },
+      {
+        "text": "Lean",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Lean"
+      },
+      {
+        "text": "Agile",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Agile"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Finding Your Career in Tech",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=b90e02bd-ffba-4dc1-84b9-52c621464e9d"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Nicole Klein",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#NicoleKlein"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=52aea375-f68d-4c1b-824e-6bbcae76043b"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Discovery or exploration of where you might fit in inside the tech industry can be a scary thing to do by yourself. Most are forced to just pick some... Read More..."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "59"
+      }
+    ],
+    "tags": [
+      {
+        "text": "career development",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=career+development"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "WomenInTech JavaScript Workshop",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=a7776877-81a4-4283-8fff-35e868743f3f"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Gregorio Rojas",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#GregorioRojas"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=8dfe1d4a-10be-4212-be76-bdaad2a1cb70"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Get started with one of the most popular programming languages on the web."
+      }
+    ],
+    "interested": [
+      {
+        "text": "31"
+      }
+    ],
+    "tags": [
+      {
+        "text": "womenintech",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=womenintech"
+      },
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "The Top 5 Things to do when Raising Angel Investment",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=7aa3a5e3-d819-4b6c-9ca8-1c702818541c"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Liliana Monge",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#LilianaMonge"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=6139a9eb-fd14-42a8-aa8d-190822423fab"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn how to fund your tech startup"
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "25"
+      }
+    ],
+    "tags": [
+      {
+        "text": "womenintech",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=womenintech"
+      },
+      {
+        "text": "tech",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=tech"
+      },
+      {
+        "text": "startups",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=startups"
+      },
+      {
+        "text": "Code",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Code"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "WomenInTech HTML/CSS Workshop",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=10ff3d77-eb8f-4d0d-a005-28d9761cdcd5"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Liliana Monge",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#LilianaMonge"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=6139a9eb-fd14-42a8-aa8d-190822423fab"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Intro to Web Development"
+      }
+    ],
+    "interested": [
+      {
+        "text": "32"
+      }
+    ],
+    "tags": [
+      {
+        "text": "womenintech",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=womenintech"
+      },
+      {
+        "text": "learntocode",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=learntocode"
+      },
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      },
+      {
+        "text": "Code",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Code"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Breaking into the Tech Industry",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=7bcbdcf2-2516-42f9-bcc9-c3097eb53d21"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Gregorio Rojas",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#GregorioRojas"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=8dfe1d4a-10be-4212-be76-bdaad2a1cb70"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "There are a variety of roads you can take to break into the tech industry. From employee to entrepreneur, there are several paths you could take."
+      }
+    ],
+    "interested": [
+      {
+        "text": "45"
+      }
+    ],
+    "tags": [
+      {
+        "text": "startups",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=startups"
+      },
+      {
+        "text": "entrepreneur",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=entrepreneur"
+      },
+      {
+        "text": "career",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=career"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Demystifying the Tech & Software Industry",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=d53b4b95-3184-474a-a39c-3f4d3687f73a"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Gregorio Rojas",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#GregorioRojas"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=8dfe1d4a-10be-4212-be76-bdaad2a1cb70"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Find out what all those acronyms and complicated terms you hear actually mean."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "37"
+      }
+    ],
+    "tags": [
+      {
+        "text": "software",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=software"
+      },
+      {
+        "text": "career",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=career"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Swift by Example - Optionals, Protocols, and Extensions",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=c5d6c731-a324-4518-84dc-f93b60b7ee0d"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Josiah Mory",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JosiahMory"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=6b502a68-31f1-492c-bf65-9fabe495f5ad"
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "23"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Xcode",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Xcode"
+      },
+      {
+        "text": "swift",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=swift"
+      },
+      {
+        "text": "iOS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=iOS"
+      },
+      {
+        "text": "Apps",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Apps"
+      },
+      {
+        "text": "Apple",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Apple"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Intro to Microsoft Azure: Cloud Computing",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=a137acdd-25f8-4c86-ba4a-752ce3731bcb"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Jessica Deen",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JessicaDeen"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=58b10b1a-c8c5-4097-a707-eb8d147812fa"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "In this session wil will talk a little bit about the cloud and walk through how to get started using Microsoft Azure for your cloud computing needs. The goal of this session is to give you a foundation for understanding the fundamentals of Azure, even if you don't know anything about cloud computing."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "35"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Microsoft",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Microsoft"
+      },
+      {
+        "text": "Infrastructure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Infrastructure"
+      },
+      {
+        "text": "computing",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=computing"
+      },
+      {
+        "text": "Cloud",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Cloud"
+      },
+      {
+        "text": "Azure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Azure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Kids' Session: Minecraft Hour of Code",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=b1dfaaa3-66c4-48d4-9c8d-4b296c9f8bd3"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Annie Bubinski",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#AnnieBubinski"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=d01bb238-ddbb-4ad6-9387-346713c55ba7"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn the basics of programming by assisting Alex or Steve through a Minecraft adventure. Computer or mobile device (cell phone or tablet) required for browser use."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "20"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Minecraft",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Minecraft"
+      },
+      {
+        "text": "Kids",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Kids"
+      },
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      },
+      {
+        "text": "Gaming",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Gaming"
+      },
+      {
+        "text": "Coding",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Coding"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Kids' Session: Pokémon Go Make A Website",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=acba7ae5-254f-41c5-8dec-b709a21f2566"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Annie Bubinski",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#AnnieBubinski"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=d01bb238-ddbb-4ad6-9387-346713c55ba7"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn the basics of HTML, CSS, and JavaScript to create your first website. Computer needed."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "16"
+      }
+    ],
+    "tags": [
+      {
+        "text": "web development",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=web+development"
+      },
+      {
+        "text": "Visual Studio Code",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Visual+Studio+Code"
+      },
+      {
+        "text": "Kids",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Kids"
+      },
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      },
+      {
+        "text": "HTML",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=HTML"
+      },
+      {
+        "text": "CSS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=CSS"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Introduction to Data Science using python",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=2bc21c6c-429d-4dc7-84ea-a6f266e69cf7"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Zia Khan",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#ZiaKhan"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=8d1f65d0-8afd-406f-a38e-f5e8061b707f"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "This is a hands-on session, we will be introducing Data Science CRISP=DM framework and will going through Kaggle Titanic competition to predict the probability of passenger survivor."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "69"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Training",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Training"
+      },
+      {
+        "text": "Python",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Python"
+      },
+      {
+        "text": "Machine Learning",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Machine+Learning"
+      },
+      {
+        "text": "data science",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=data+science"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Building Your First Real-Time Interactive Web App with Socket.io and Nodejs",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=0b9f7685-955d-4097-a3e4-53a63e2b271e"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Liz Krane",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#LizKrane"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=cf4c1d8b-b233-4407-9078-d0981a134062"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Have you tinkered with JavaScript but never made a multi-user app before? We'll walk through creating a real-time multiplayer drawing app, for those new to full-stack JavaScript and event-based programming! Depending on time constraints, this will either be a talk or a workshop."
+      }
+    ],
+    "interested": [
+      {
+        "text": "102"
+      }
+    ],
+    "tags": [
+      {
+        "text": "websocket",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=websocket"
+      },
+      {
+        "text": "WEB",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=WEB"
+      },
+      {
+        "text": "socketio",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=socketio"
+      },
+      {
+        "text": "NodeJs",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=NodeJs"
+      },
+      {
+        "text": "node",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=node"
+      },
+      {
+        "text": "JS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JS"
+      },
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      },
+      {
+        "text": "fullstack",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=fullstack"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Introduction to Apple Platform Development",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=4031688c-5231-4f9a-889d-4032b6a9e690"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Garric Nahapetian",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#GarricNahapetian"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=10c9cf6a-3e46-4dd9-8ab2-e20701ba90b8"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "This session will cover a broad overview of the main tools, concepts, and resources that are necessary for developing on all of Apple's Platforms (iOS, macOS, watchOS, and tvOS), including Swift, Xcode, Apple Frameworks, Developer library, and the Model-View-Controller architecture."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "54"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Xcode",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Xcode"
+      },
+      {
+        "text": "swift",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=swift"
+      },
+      {
+        "text": "iOS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=iOS"
+      },
+      {
+        "text": "Apple",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Apple"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Swift and the Amazon Web Services Cloud",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=50220d8d-aa09-4c38-a899-5cdc5e92da0b"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Alistair Cooper",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#AlistairCooper"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=fa3ac09e-371a-4b02-99bd-d2c8fc4a3ff9"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "An introduction to using Amazon Web Services in Swift iOS apps. The talk will give an overview of the AWS platform with a focus on mobile. We'll build a \"Swift Facts\" app in Swift 3 that downloads an image + parses JSON from the Cloud using AWS S3."
+      }
+    ],
+    "interested": [
+      {
+        "text": "41"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Xcode",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Xcode"
+      },
+      {
+        "text": "swift",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=swift"
+      },
+      {
+        "text": "S3",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=S3"
+      },
+      {
+        "text": "Mobile",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Mobile"
+      },
+      {
+        "text": "iOS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=iOS"
+      },
+      {
+        "text": "cloud computing",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=cloud+computing"
+      },
+      {
+        "text": "AWS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=AWS"
+      },
+      {
+        "text": "amazon web services",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=amazon+web+services"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Learning from Configuration Management",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=1c4e802a-f320-4411-93fb-fafa56fefe3a"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Galen Emery",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#GalenEmery"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=908ee3be-dec9-4a9d-b49a-a7f6b6fda1cc"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "What can we learn from Configuration Management as we reinvent how we build, deploy and manage applications?"
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "41"
+      }
+    ],
+    "tags": [
+      {
+        "text": "habitat",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=habitat"
+      },
+      {
+        "text": "devops",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=devops"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Azure Management from any platform: Linux, OS X, and Windows",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=d3563a63-b4d6-40b0-a17b-6b7e68ac0f35"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Jessica Deen",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JessicaDeen"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=58b10b1a-c8c5-4097-a707-eb8d147812fa"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn how to manage Azure from any platform using PowerShell Core. We will break down the entire deployment process, cover how to manage your source control and create/edit JSON templates you can then use for deployments."
+      }
+    ],
+    "interested": [
+      {
+        "text": "26"
+      }
+    ],
+    "tags": [
+      {
+        "text": "xplat",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=xplat"
+      },
+      {
+        "text": "PowerShell",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=PowerShell"
+      },
+      {
+        "text": "OS X",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=OS+X"
+      },
+      {
+        "text": "Linux",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Linux"
+      },
+      {
+        "text": "Cloud",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Cloud"
+      },
+      {
+        "text": "Azure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Azure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Getting started with BASH on Windows 10",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=69d645a3-0c6f-4d42-a860-67a3cba4a205"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Jessica Deen",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JessicaDeen"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=58b10b1a-c8c5-4097-a707-eb8d147812fa"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "In this session we will cover some new features in Windows 10 and, more specifically, the addition of BASH on Ubuntu to the Windows offering. We will cover what it is and how it works on Windows, and ultimately how to get BASH up and running."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "40"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Windows 10",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Windows+10"
+      },
+      {
+        "text": "Linux",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Linux"
+      },
+      {
+        "text": "Bash on Windows",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Bash+on+Windows"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Prototyping 101: Sketch and InVision",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=58cb5358-f8af-4d29-81e0-91274446bf93"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Shraddha Swaroop",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#ShraddhaSwaroop"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=dbc0eac8-7021-4277-ab07-4ffb5f2741bd"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Need an edge to market yourself in the UX field? Get an overview of the two biggest prototyping tools in the business: Sketch and InVision."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "63"
+      }
+    ],
+    "tags": [
+      {
+        "text": "UX",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=UX"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Lead Tech to Tech Leader: Moving to Management",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=80af0778-e92f-478b-84bc-71506f964be9"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Richard Grossman",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#RichardGrossman"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=a1234ef5-9205-4a08-b17b-53596c61a91f"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "YES YOU CAN DO THIS. Some techs have an aversion to managing: they think it involves paper-pushing (it does), politics (it does), and a lack of job satisfaction (it doesn't)."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "54"
+      }
+    ],
+    "tags": [
+      {
+        "text": "vp engineering",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=vp+engineering"
+      },
+      {
+        "text": "Management",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Management"
+      },
+      {
+        "text": "CTO",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=CTO"
+      },
+      {
+        "text": "careers",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=careers"
+      },
+      {
+        "text": "career",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=career"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Chatbots, APIs, and Functional Fun with RunKit",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=ef1c0877-2517-47c3-8f0b-24bc01dc1384"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Matthew Jesuele",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MatthewJesuele"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=29b00ebc-4f24-499f-8c13-cf632321eba4"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "RunKit (http://runkit.com) is a \"node playground in your browser\" that lets you author, share, evaluate, and interact with JavaScript code in the form of \"notebooks\". We'll be using it to play with some functional code, fetch and visualize some data, expose an endpoint to provide a simple backend for a chatbot, and more!"
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "52"
+      }
+    ],
+    "tags": [
+      {
+        "text": "runkit",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=runkit"
+      },
+      {
+        "text": "node",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=node"
+      },
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      },
+      {
+        "text": "Functional Programming",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Functional+Programming"
+      },
+      {
+        "text": "chatbot",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=chatbot"
+      },
+      {
+        "text": "bot framework",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=bot+framework"
+      },
+      {
+        "text": "API",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=API"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Is C# sharper than Java?",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=1f49025f-664e-4414-a0c6-ddeb8d0476da"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Rajesh Joshi",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#RajeshJoshi"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=9e7773c9-6f97-49ca-bdd9-f13574b44bfd"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "With the software industry moving from Java to C#, are you planning to make the move? Join me for an introductory session on planning the move, understanding the feature sets in C# and preparing for the surprises in the transition. This talk will be based on my personal experiences of transitioning from Jave to C#."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "42"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Microsoft",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Microsoft"
+      },
+      {
+        "text": "Java",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Java"
+      },
+      {
+        "text": "C#",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=C%23"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "How to DevOps - Learning CI / CD by Building Personal Websites",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=2fba4f31-ab70-4446-8510-0e606de978c0"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Carlos Meza",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#CarlosMeza"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=457ab409-914c-4cd4-8d32-cc23dcff51e3"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "An introduction to continuous integration and deployment concepts by building a personal site. We will use a static-site generator as our example project. Our workflow will include software version control, and automatically running tests, integrating changes and deploying content."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "87"
+      }
+    ],
+    "tags": [
+      {
+        "text": "devops",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=devops"
+      },
+      {
+        "text": "CI",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=CI"
+      },
+      {
+        "text": "cd",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=cd"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Regional Load Testing with Beeswithmachineguns/hurl",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=622fccdd-0e6d-4fa8-ba8d-e65f7a8ac8cc"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "raymond mintz",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#raymondmintz"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=c81e9068-4cb5-4c9b-b947-2aaecb17b73f"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Load testing web applications from multiple regions around the world"
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "18"
+      }
+    ],
+    "tags": [
+      {
+        "text": "web application",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=web+application"
+      },
+      {
+        "text": "Security",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Security"
+      },
+      {
+        "text": "Python",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Python"
+      },
+      {
+        "text": "load testing",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=load+testing"
+      },
+      {
+        "text": "ddos",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=ddos"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Business Intelligence Architectures in the Cloud",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=583a221f-0690-4764-8ba6-105bf6a178b5"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Ben Perlmutter",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BenPerlmutter"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=fabee6fd-b130-46ac-ba67-0a083f273801"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Exploring different methods of BI architectures and advantages of moving it into the cloud."
+      }
+    ],
+    "interested": [
+      {
+        "text": "47"
+      }
+    ],
+    "tags": [
+      {
+        "text": "ETL",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=ETL"
+      },
+      {
+        "text": "Dashboards",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Dashboards"
+      },
+      {
+        "text": "business intelligence",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=business+intelligence"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Developers, Designers and PMs: Agile collaboration for a better product",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=148bc11d-6bea-41fc-bd8f-758c01db3efc"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Tom Vignard",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#TomVignard"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=6f8d62ba-fa0f-4d29-ad6e-d59bbdd107cb"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "What makes a team successful?"
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "62"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Project Management",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Project+Management"
+      },
+      {
+        "text": "Communication",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Communication"
+      },
+      {
+        "text": "career",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=career"
+      },
+      {
+        "text": "Agile",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Agile"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Are Chat bots the next Apps?",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=118e6dc8-00ec-4eb8-a090-09df09b6ff0c"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Prathap Kudupu",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#PrathapKudupu"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=b271790d-a752-4968-89bf-e0884f12c25c"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "We have seen numerous web sites, mobile apps and desktop apps during our lifetime."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "42"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Microsoft bot framework",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Microsoft+bot+framework"
+      },
+      {
+        "text": "IBM watson",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=IBM+watson"
+      },
+      {
+        "text": "bots",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=bots"
+      },
+      {
+        "text": "AI",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=AI"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Fixing Suboptimal API Integrations",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=bc3f8497-9847-4991-b90e-8ad9c7f841fd"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Dave Gullo",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#DaveGullo"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=45c7b9b4-c104-4d24-9051-59e63316676f"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Nothing is more annoying than an incomplete or inefficient API integration experience. The majority of the time we have undertaken API integrations at our company, it's like being a kid in a candy store full of chocolate covered bugs..."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "35"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Integration",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Integration"
+      },
+      {
+        "text": "Failz",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Failz"
+      },
+      {
+        "text": "API",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=API"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Going Full-Full Stack: Hybrid use of Scala and Node.js",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=f66e126c-0ec1-46b8-bc5d-c9296f74f3d1"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Dave Gullo",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#DaveGullo"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=45c7b9b4-c104-4d24-9051-59e63316676f"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "As a new company we have huge scaling issues. In this talk we will discuss what we are doing to address scaling high volume / low latency systems (500,000 requests / second, responding in < 30ms) and how you may use some of these techniques to solve similar challenges."
+      }
+    ],
+    "level": [
+      {
+        "text": "300"
+      }
+    ],
+    "interested": [
+      {
+        "text": "58"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Scaling",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Scaling"
+      },
+      {
+        "text": "Scala",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Scala"
+      },
+      {
+        "text": "node.js",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=node.js"
+      },
+      {
+        "text": "akka",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=akka"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "An Introduction to Time Management Principles in Parallel Computing",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=55eb1949-d737-4917-a752-dde4d9ee23bd"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Wendy Steinman",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#WendySteinman"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=af0d690f-a1f1-4b74-9431-862475df34dc"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Science, research and DoD sectors are looking for scalable and repeatable modeling and simulation frameworks. This session will cover the basics to understand \"Why is this important?\" and \"Doesn't the cloud take care of all of it?\" followed with a brief overview of some of the synchronization and timing mechanisms used in the industry and implemented in the WarpIV Kernel engine that allow the simulation magic to happen."
+      }
+    ],
+    "interested": [
+      {
+        "text": "41"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Modeling and Simulation",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Modeling+and+Simulation"
+      },
+      {
+        "text": "HPC",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=HPC"
+      },
+      {
+        "text": "Cloud",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Cloud"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Git Foundations — Unlocking the Mysteries",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=af1253ef-cc9c-4af2-8a0b-e7d290f13ed2"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Mike Weilgart",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MikeWeilgart"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=4340a0d0-832b-4fef-aca3-13e451447e93"
+      }
+    ],
+    "interested": [
+      {
+        "text": "139"
+      }
+    ],
+    "tags": [
+      {
+        "text": "git",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=git"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Ship Better, Faster",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=b4a8db31-495d-4899-adbb-c1cef76b6764"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Paul Whitmer",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#PaulWhitmer"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=63f3b11e-86aa-4dfb-9ef4-7666f74dd2d4"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "In this talk Paul and Jim will show you how you can use Continuous Integration and Continuous Delivery to go from writing code on your dev machine to deploying to production. They will show you an end to end demo featuring a working deployment pipeline. The talk will cover the ways that automated deployment can remove human error from the deployment and provide faster feedback about problems in your code."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "71"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Testing",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Testing"
+      },
+      {
+        "text": "node",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=node"
+      },
+      {
+        "text": "devops",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=devops"
+      },
+      {
+        "text": "deployment",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=deployment"
+      },
+      {
+        "text": "AWS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=AWS"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Video, Audio Processing, DSP, Computer Visuino and Artificial Intelligence in Delphi",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=e588e23d-20b9-4ff6-9647-7dadd371f8be"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Boian Mitov",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BoianMitov"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=9ff75e67-da49-4041-bf56-0aab24ca91c0"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn how to add Video, Audio Processing, DSP, Computer Visuino and Artificial Intelligence to your Delphi Applications"
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "16"
+      }
+    ],
+    "tags": [
+      {
+        "text": "video",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=video"
+      },
+      {
+        "text": "DSP",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=DSP"
+      },
+      {
+        "text": "Delphi",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Delphi"
+      },
+      {
+        "text": "computer vision",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=computer+vision"
+      },
+      {
+        "text": "audio",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=audio"
+      },
+      {
+        "text": "Artificial Intelligence",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Artificial+Intelligence"
+      },
+      {
+        "text": "AI",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=AI"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Programming Arduino Robots with Visuino",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=25de4991-c43d-4ea1-a564-3546c827c1e0"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Boian Mitov",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BoianMitov"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=9ff75e67-da49-4041-bf56-0aab24ca91c0"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Program authonomous and remote controlled robots with Visuino"
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "41"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Visuino",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Visuino"
+      },
+      {
+        "text": "robots",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=robots"
+      },
+      {
+        "text": "Arduino",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Arduino"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "The 10 Foot Experience: Developing for TV on Roku, Amazon Fire and Apple TV",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=691dc7cd-0a2a-45fd-ae63-53c150d4536d"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Mark Lassoff",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MarkLassoff"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=969fc4ee-5b57-4b6f-80d2-c69b8cb61377"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "In a world where everything is becoming an app, the need for developers who understand the television app ecosystems is growing quickly. Learn about the major television app ecosystems, development stacks and opportunities in this new segment of development."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "61"
+      }
+    ],
+    "tags": [
+      {
+        "text": "swift",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=swift"
+      },
+      {
+        "text": "roku",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=roku"
+      },
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      },
+      {
+        "text": "Java",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Java"
+      },
+      {
+        "text": "HTML5",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=HTML5"
+      },
+      {
+        "text": "HTML",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=HTML"
+      },
+      {
+        "text": "Amazon",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Amazon"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "HTML5 Mobile Development with PhonGap: One Hour App Challenge",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=ac322815-7403-430d-8983-7259d4804c09"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Mark Lassoff",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MarkLassoff"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=969fc4ee-5b57-4b6f-80d2-c69b8cb61377"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Challenge: Build an entire mobile application and distribute it in less than one hour. In this session the presenter will take up the challenge and build a full mobile app and deploy it using PhoneGap (Cordova) and HTML5."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "100"
+      }
+    ],
+    "tags": [
+      {
+        "text": "phonegap",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=phonegap"
+      },
+      {
+        "text": "Mobile",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Mobile"
+      },
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      },
+      {
+        "text": "HTML5",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=HTML5"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Build a Dashboard in a Day",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=7df7c3cf-77d4-42e6-8d8c-655632e4d90d"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Vazi Okhandiar",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#VaziOkhandiar"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=99fe597f-c206-4124-95e6-eb1bfdcf47c3"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn to build a dashboard in a day using Microsoft PowerPivot, PowerMap and Power BI."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "62"
+      }
+    ],
+    "tags": [
+      {
+        "text": "PowerPivot",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=PowerPivot"
+      },
+      {
+        "text": "PowerMap",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=PowerMap"
+      },
+      {
+        "text": "PowerBI",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=PowerBI"
+      },
+      {
+        "text": "Dashboard",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Dashboard"
+      },
+      {
+        "text": "business intelligence",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=business+intelligence"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Artificial Intelligence with .NET",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=38abd954-5c80-449f-82ee-d85314388936"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Boian Mitov",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BoianMitov"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=9ff75e67-da49-4041-bf56-0aab24ca91c0"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn how to add Artificial Intelligence to your .NET projects"
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "71"
+      }
+    ],
+    "tags": [
+      {
+        "text": "C#",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=C%23"
+      },
+      {
+        "text": "Artificial Intelligence",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Artificial+Intelligence"
+      },
+      {
+        "text": "AI",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=AI"
+      },
+      {
+        "text": ".NET",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=.NET"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Implementing Internet of Things with Visuino",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=cc1cb495-7094-44af-a61d-a4c63d98ec38"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Boian Mitov",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BoianMitov"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=9ff75e67-da49-4041-bf56-0aab24ca91c0"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Proramming Arduino and ESP8266 microcontrollers to connect to each other and to web servers, computers and mobile devices, over Wi-Fi or BluetoothLE forming complex IoT solutions"
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "38"
+      }
+    ],
+    "tags": [
+      {
+        "text": "WIFI",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=WIFI"
+      },
+      {
+        "text": "IoT",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=IoT"
+      },
+      {
+        "text": "ESP8266",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=ESP8266"
+      },
+      {
+        "text": "BLE",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=BLE"
+      },
+      {
+        "text": "Arduino",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Arduino"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Drupal 8: An Advanced Content Management System",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=0aeb4e6d-7c00-4e55-984a-8698c869e2a5"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Mario Hernandez",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MarioHernandez"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=f26a2094-3b0a-4bc9-9fee-4d1e6c169da6"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "If you are bulding or planning on building new dynamic website with advanced editorial process, this is the session for you."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "43"
+      }
+    ],
+    "tags": [
+      {
+        "text": "drupal",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=drupal"
+      },
+      {
+        "text": "CMS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=CMS"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Component-driven front-end development",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=13535a0d-1c68-458b-a3c9-56c5ccda40fb"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Mario Hernandez",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MarioHernandez"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=f26a2094-3b0a-4bc9-9fee-4d1e6c169da6"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn how using a component-driven approach for front-end development can simplify the entire development process of a website."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "97"
+      }
+    ],
+    "tags": [
+      {
+        "text": "sass",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=sass"
+      },
+      {
+        "text": "responsive",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=responsive"
+      },
+      {
+        "text": "front-end",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=front-end"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "iOS App Development 101",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=ed5c5c75-324b-4414-af3f-059d87e8223e"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Edward Arenberg",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#EdwardArenberg"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=c49fd711-88a1-450a-a6c1-405c742c04ac"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "A walk-through of using Xcode to build a simple iOS app in Swift. No coding experience is required, but if you want to follow along, a Mac with Xcode 8 installed will be necessary. We'll cover design and layout of an app in Interface Builder, connecting elements and actions to code, and running in the simulator and on a device."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "101"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Xcode",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Xcode"
+      },
+      {
+        "text": "swift",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=swift"
+      },
+      {
+        "text": "iOS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=iOS"
+      },
+      {
+        "text": "Development",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Development"
+      },
+      {
+        "text": "app",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=app"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Developer vs Designer - Getting onto the same page",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=06c20b06-6a81-41e5-b152-1cf0a31c4a5c"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Anita Cheng",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#AnitaCheng"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=1a4897ea-a30e-4512-922f-cb81a3577371"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Do you find yourself at odds working with designers? Learn to get onto the same page with improved communication, with this Q&A! Please fill out this survey to customize the session: https://goo.gl/forms/OFcGu7h5oLq0Qc692"
+      }
+    ],
+    "interested": [
+      {
+        "text": "70"
+      }
+    ],
+    "tags": [
+      {
+        "text": "visual design",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=visual+design"
+      },
+      {
+        "text": "Design",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Design"
+      },
+      {
+        "text": "Communication",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Communication"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Emergent Architecture - Just Enough Just in Time",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=d24d9f69-6668-4a14-9f43-f4e0de3c5c4f"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Mike Vincent",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MikeVincent"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=73be5f05-b856-48fa-909d-d7e545fcc29e"
+      }
+    ],
+    "level": [
+      {
+        "text": "300"
+      }
+    ],
+    "interested": [
+      {
+        "text": "64"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Scrum",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Scrum"
+      },
+      {
+        "text": "Architecture",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Architecture"
+      },
+      {
+        "text": "Agile",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Agile"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "VR 101: Development and Design",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=09682c64-5ece-405a-9734-b67766da0627"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Katherine Harris",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#KatherineHarris"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=11a9b453-bd6c-45e8-aff8-89d1144b2d40"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "This talk will teach developers how to develop for the many platforms of VR from HTC’s Vive to Google Cardboard. Using the Unity game engine, we will walk through development of a simple VR game. The talk will also cover best practices to consider during design and development for the best user experiences and game portability. The goal of the panel is to provide a solid foundation for participants to go and develop new VR experiences."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "97"
+      }
+    ],
+    "tags": [
+      {
+        "text": "VR",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=VR"
+      },
+      {
+        "text": "Unity",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Unity"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Continuous delivery with Azure App Service",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=973f4e87-2349-4107-8f00-203c849a575f"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Muhammad Nabeel",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MuhammadNabeel"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=9cf7e425-9597-4163-8e9c-62da67397874"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Azure app services is a set of technologies that enable development of cloud centric Web Apps, Mobile Apps, API Apps and Logic Apps. This talk would introduce you to continuous delivery pipeline using Azure app services. We would take a use case and implement the steps that we need to take in order to establish a build pipeline."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "37"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Azure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Azure"
+      },
+      {
+        "text": "Application Development",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Application+Development"
+      },
+      {
+        "text": "App Services",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=App+Services"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "MongoDB Aggregation like a Champ!",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=bf5152f6-8860-44bf-9a9b-a2faaf3c5660"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Nuri Halperin",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#NuriHalperin"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=b0f28df5-d0f9-462a-b143-d9ab3d1fdd22"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Got lots of data? Need to run some reports? You don't need add-ons. You don't need map-Reduce magic. You don't need to install or pay for extra platforms. All you need is MongoDB, a shell prompt and some aggregation framework know-how!"
+      }
+    ],
+    "interested": [
+      {
+        "text": "77"
+      }
+    ],
+    "tags": [
+      {
+        "text": "No SQL",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=No+SQL"
+      },
+      {
+        "text": "MongoDB",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=MongoDB"
+      },
+      {
+        "text": "Database",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Database"
+      },
+      {
+        "text": "Big Data",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Big+Data"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Concurrency is child's play! (Powerful, Naïve, and full of \"Oops!\")",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=134376e6-120f-401d-afeb-418efe4888b1"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Nuri Halperin",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#NuriHalperin"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=b0f28df5-d0f9-462a-b143-d9ab3d1fdd22"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Humans are notoriously bad multi-taskers. Computers, it turns out, are not much better. When it comes to concurrency, there are core concepts that are easy to get wrong. If you want to understand concurrency from the ground up - this session is for you!"
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "42"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Theory",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Theory"
+      },
+      {
+        "text": "Concurrency",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Concurrency"
+      },
+      {
+        "text": "Asyncronous",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Asyncronous"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Make Ideas, Not Tasks!",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=9a6be073-974a-4403-8fec-c0d3aa0ba4a4"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Nuri Halperin",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#NuriHalperin"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=b0f28df5-d0f9-462a-b143-d9ab3d1fdd22"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "We want others to do what we want. But will they? How do we get things done ourselves? How do we engage others to do things? It's easy to blame poor organization, workload, time pressure, or lack of incentives for under-performance. One key principle that is often overlooked: the Big Idea."
+      }
+    ],
+    "interested": [
+      {
+        "text": "56"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Soft Skills",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Soft+Skills"
+      },
+      {
+        "text": "Productivity",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Productivity"
+      },
+      {
+        "text": "Big Idea",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Big+Idea"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Survey of the JavaScript Ecosystem",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=f87009e4-14e6-4bfd-bc20-2c2ffa853d20"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Todd Zebert",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#ToddZebert"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=94c027f6-5ba2-4933-89c6-85049dd1af53"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "So you want to use new JavaScript language constructs or concepts? You’ll probably want or need help from libraries and/or tooling. Builds on my other session, Survey of JavaScript Concepts."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "100"
+      }
+    ],
+    "tags": [
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Survey of JavaScript Concepts",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=abf9774c-620a-4da6-9d40-4c2cc657ad85"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Todd Zebert",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#ToddZebert"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=94c027f6-5ba2-4933-89c6-85049dd1af53"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Whether you’re going headless or not, front ends are getting more complex and JavaScript is necessary and evolving fast. I’ll cover what’s new, hot and interesting as far as concepts related to JS. It’s also a good preliminary to my other session, Survey of the JavaScript Ecosystem."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "110"
+      }
+    ],
+    "tags": [
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "A Developer's Guide to Finding Optimal Solutions",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=24d59c6a-d04a-4cf5-be16-52cd870a2013"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Barry Stahl",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BarryStahl"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=25ea809d-a671-433a-8579-d78b06fe8d84"
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "75"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Solution",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Solution"
+      },
+      {
+        "text": "optimization",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=optimization"
+      },
+      {
+        "text": "Math",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Math"
+      },
+      {
+        "text": "Algorithm",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Algorithm"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "How to Crack Technical Interviews",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=a0fd50cd-8b96-4e26-9c0e-5abc80f63960"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Abhi Jain",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#AbhiJain"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=4874bdce-543e-4c3d-a520-881146024161"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "In this session, I will be discussing what employers are looking for in the technical interviews. We will be discussing the types of questions that are typically asked during the interview and the best ways to answer them. I will also present some tips and tricks on how to handle different types of questions differently."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "137"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Training",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Training"
+      },
+      {
+        "text": "Technical Interview",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Technical+Interview"
+      },
+      {
+        "text": "Interview",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Interview"
+      },
+      {
+        "text": "Crack Interview",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Crack+Interview"
+      },
+      {
+        "text": "Coding Interview",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Coding+Interview"
+      },
+      {
+        "text": "coaching",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=coaching"
+      },
+      {
+        "text": ".NET",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=.NET"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Successfully Managing Technical Debt",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=25b663a0-df7e-4197-9892-8514b4404b36"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Jeremy Cameron",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JeremyCameron"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=c9a17463-308c-4d23-85e6-fe423b85b34a"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "What is technical debt? Do I have it? Why should I care about it? This talk will answer these questions and provide a couple options to identify, categorize and systematically pay down technical debt."
+      }
+    ],
+    "interested": [
+      {
+        "text": "67"
+      }
+    ],
+    "tags": [
+      {
+        "text": "technical-debt",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=technical-debt"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Understanding Non-Functional Requirements",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=061ef86d-cb0f-44d2-8008-4aa1ee169c79"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Jeremy Cameron",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JeremyCameron"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=c9a17463-308c-4d23-85e6-fe423b85b34a"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "As a software developer, considering what approach to use is typically about 50% business needs and 50% non-functional requirements. This talk will provide some additional context that you need as a solution designer to pick the best approach to the problem. By understanding non-functional requirements, you are equipped to make better decisions for the long term ... Read More..."
+      }
+    ],
+    "interested": [
+      {
+        "text": "71"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Architecture",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Architecture"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Domain Driven Design",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=20dad69c-af52-40f4-9509-965ec34244e2"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Jeremy Cameron",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JeremyCameron"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=c9a17463-308c-4d23-85e6-fe423b85b34a"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "In this session, we will discuss the key concepts of domain driven design and understand how domain driven design helps us unwind very complicated problems."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "72"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Design",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Design"
+      },
+      {
+        "text": "Architecture",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Architecture"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Angular Material 2: Reward your app with high-quality UI in minutes",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=23376cdf-311d-4910-a25a-7f5bc6b4f152"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Maxim Salnikov",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MaximSalnikov"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=1628ad27-80f7-4d99-ac5a-be01614ed08d"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Our amazing web applications need high-quality UI components. So we have Angular 2 app on one hand and Material Design visual language on another. How to combine these without calling designer and spending days on struggling with CSS cross-platform issues and re-inventing client-side code for common UI scenarios?"
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "85"
+      }
+    ],
+    "tags": [
+      {
+        "text": "material design",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=material+design"
+      },
+      {
+        "text": "angular material 2",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=angular+material+2"
+      },
+      {
+        "text": "Angular 2",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Angular+2"
+      },
+      {
+        "text": "accessibility",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=accessibility"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Microsoft Service Fabric for Developers",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=926d9113-e338-496a-8a6a-ffc6055aad5d"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Vishal Saxena",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#VishalSaxena"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=09cceb7d-4ed0-4903-af7c-cdca67959ccd"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "This is an introductory session on Microsoft Service Fabric targeted for developers of all traits"
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "34"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Service Fabric",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Service+Fabric"
+      },
+      {
+        "text": "microservices",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=microservices"
+      },
+      {
+        "text": "Cloud",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Cloud"
+      },
+      {
+        "text": "Azure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Azure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Building Angular 2 Application for Production",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=5c61be6f-4378-42e8-9d42-8e6dddf13e99"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Minko Gechev",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MinkoGechev"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=d7693e65-d534-4ced-b767-bb48952ed24e"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "In this talk we’re going explain essential practices that can help us reduce the initial load time of our Angular applications."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "90"
+      }
+    ],
+    "tags": [
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      },
+      {
+        "text": "Angular",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Angular"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Introduction to AWS IoT",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=763d03d7-945e-4962-b97c-fd225d96f943"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Dexter Baga",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#DexterBaga"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=76e03654-c7cd-401a-b2e0-2f00304bcf31"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Let us discover together how the AWS IoT platform works and how you can start using it. We will briefly look at some sample code, a device that talks to AWS IoT, and go through each of the components of the AWS IoT platform."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "82"
+      }
+    ],
+    "tags": [
+      {
+        "text": "IoT",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=IoT"
+      },
+      {
+        "text": "internet of things",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=internet+of+things"
+      },
+      {
+        "text": "AWS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=AWS"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Organizational Justice for Engineers",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=f3a8896a-52cf-4e05-a6dc-c5cfa546ca85"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Aaron Crow",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#AaronCrow"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=f066e309-1d6e-4d08-a668-2a84f30ea045"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "This talk is for hands-on engineers who want to get stuff done but also care about how important decisions are made. The talk will be 15 to 20 minutes followed by an open discussion."
+      }
+    ],
+    "interested": [
+      {
+        "text": "21"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Soft Skills",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Soft+Skills"
+      },
+      {
+        "text": "justice",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=justice"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Breaking the Ice",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=d1191fd8-31e6-4355-be22-6481d26bdc39"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Jennie Ibrahim",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JennieIbrahim"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=1174ba39-12a0-4726-b87c-27eb72b6de18"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Start a conversation that will grow your career."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "84"
+      }
+    ],
+    "tags": [
+      {
+        "text": "team dynamics",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=team+dynamics"
+      },
+      {
+        "text": "Soft Skills",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Soft+Skills"
+      },
+      {
+        "text": "Productivity",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Productivity"
+      },
+      {
+        "text": "networking",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=networking"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Serverless architecture & computing using Microsoft Azure",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=fdcd4fc3-cb72-47ee-8672-efcd000b330f"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Brian Loesgen",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#BrianLoesgen"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=3ff252c6-8941-4f7f-a104-914d8d757678"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "This session will provide an understanding about cloud based serverless architectures using Azure Functions and Logic Apps."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "69"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Serverless Computing",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Serverless+Computing"
+      },
+      {
+        "text": "Logic Apps",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Logic+Apps"
+      },
+      {
+        "text": "Azure PaaS",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Azure+PaaS"
+      },
+      {
+        "text": "Azure Functions",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Azure+Functions"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Cloud Design Patterns for Scalability and Performance",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=4a19ff2b-f288-40f7-840e-ffd158114b19"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "David Barkol",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#DavidBarkol"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=e86aa6ac-85cf-4a9a-afd2-719620930eab"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Design patterns for cloud and on-premises applications that address scale, performance, density and other important considerations."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "73"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Design Patterns",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Design+Patterns"
+      },
+      {
+        "text": "Cloud",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Cloud"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "An Ad Impression Forecasting Tool Built With Apache Spark",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=1ddbb4d2-04a1-4956-b2db-d98d5bffb1ed"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Michael Williams",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MichaelWilliams"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=3df1b629-c13f-4528-9f2d-07c49399313e"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "We describe a system that can forecast digital ad impression trends, given arbitrary user queries and data from the past year. It uses the Apache Spark cluster computing framework and various statistical algorithms to distill over a petabyte of data into clear visualizations of past and future ad behavior."
+      }
+    ],
+    "interested": [
+      {
+        "text": "39"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Statistics",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Statistics"
+      },
+      {
+        "text": "spark",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=spark"
+      },
+      {
+        "text": "Scala",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Scala"
+      },
+      {
+        "text": "forecasting",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=forecasting"
+      },
+      {
+        "text": "Big Data",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Big+Data"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Angular 2 Dart",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=0984b0d2-4b4d-49af-9587-c0d9b4161a20"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Jennie Ibrahim",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JennieIbrahim"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=1174ba39-12a0-4726-b87c-27eb72b6de18"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn the basics of Angular 2 Dart and let's make our first app! Come ready to code. See description for setup details."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "64"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Dart",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Dart"
+      },
+      {
+        "text": "Angular 2",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Angular+2"
+      },
+      {
+        "text": "Angular",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Angular"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "CSS Flexbox",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=cf5d5c90-65ba-4baf-99d4-f3b2c665f50a"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "David Ford",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#DavidFord"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=bf5265ec-cffe-4d11-bd6f-b7102d4bd17a"
+      }
+    ],
+    "interested": [
+      {
+        "text": "116"
+      }
+    ],
+    "tags": [
+      {
+        "text": "CSS JavaScript Web Development",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=CSS+JavaScript+Web+Development"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Guava -- Google's Core Java Libraries",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=814206d4-d71e-4b0e-8c30-612ba4ab71ba"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Jennie Ibrahim",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JennieIbrahim"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=1174ba39-12a0-4726-b87c-27eb72b6de18"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Learn to write less boiler-plate code by learning the tools at your disposal in the Guava project, Google's Core Java Libraries. These libraries should be the foundation for every Java programmer."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "60"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Java",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Java"
+      },
+      {
+        "text": "Best Practices",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Best+Practices"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Java EE Microservices",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=34ab0295-ecc8-4009-9b64-5dabb6d565bf"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "John Clingan",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JohnClingan"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=ca837993-0248-43cd-85ca-a31580ea7eb5"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "John will also demonstrate how Red Hat has been approaching Java EE microservices through project WildFly Swarm (wildfly-swarm.io), which supports Java EE technologies ... Read More..."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "27"
+      }
+    ],
+    "tags": [
+      {
+        "text": "microservices",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=microservices"
+      },
+      {
+        "text": "javaee",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=javaee"
+      },
+      {
+        "text": "Java",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Java"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Java DevOps - Fighting the good fight",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=69a438c2-37f3-4517-a3a1-514cf65cf4d3"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Stephen Bhadran",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#StephenBhadran"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=ff1d0419-6113-4782-838b-b86567a30f80"
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "34"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Java",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Java"
+      },
+      {
+        "text": "devops",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=devops"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "What's New in ES 6",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=9c67ea48-237b-4406-aa7d-748e19ba0541"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "David Ford",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#DavidFord"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=bf5265ec-cffe-4d11-bd6f-b7102d4bd17a"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Get up to speed on the latest verison of JavaScript, also known as ES 6 or ECMAScript 2015."
+      }
+    ],
+    "interested": [
+      {
+        "text": "86"
+      }
+    ],
+    "tags": [
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      },
+      {
+        "text": "ES 6",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=ES+6"
+      },
+      {
+        "text": "ECMAScript 2016",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=ECMAScript+2016"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Get a Better Job!",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=2016dda0-ffec-4d05-ac6e-0aa7203cef15"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Philip Yurchuk",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#PhilipYurchuk"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=7b4c2057-05ca-49da-b83b-3b9bd4a8bb00"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "This is a greatly condensed version of Get a Better Developer Job!, my career course for developers. It leverages my 20 years as a developer, hiring manager, and most recently, technical recruiter."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "126"
+      }
+    ],
+    "tags": [
+      {
+        "text": "resumes",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=resumes"
+      },
+      {
+        "text": "interviews",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=interviews"
+      },
+      {
+        "text": "careers",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=careers"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Programmer Productivity",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=04cac4a7-212d-4cf3-8b44-61e3b32cd738"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Philip Yurchuk",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#PhilipYurchuk"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=7b4c2057-05ca-49da-b83b-3b9bd4a8bb00"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Clear, actionable advice on how to become more productive as a programmer, both at he personal and team level. I'll cover principles, strategies, and tactics based on research and cognitive psychology. If it makes you more productive in other areas, that's not my fault :-)"
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "140"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Productivity",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Productivity"
+      },
+      {
+        "text": "Management",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Management"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Mean: Getting Started and Best Practices",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=8fa20ce4-1074-4f50-9d79-51fb949a4d78"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Jimmy Muga",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JimmyMuga"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=d23b65c8-ce98-4a4c-bc9e-cda622eb9946"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Intro to the MongoDB, Express, AngularJS 1.x, and Node.js stack. Along with best practices for starting your first application."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "92"
+      }
+    ],
+    "tags": [
+      {
+        "text": "NodeJs",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=NodeJs"
+      },
+      {
+        "text": "node",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=node"
+      },
+      {
+        "text": "Mongo",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Mongo"
+      },
+      {
+        "text": "Mean",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Mean"
+      },
+      {
+        "text": "Express",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Express"
+      },
+      {
+        "text": "Angular",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Angular"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "TDD with Angular 2 & Jasmine",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=7b97c796-0bab-456a-8877-9182a6208bcc"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Troy Miles",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#TroyMiles"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=d05cc68f-3107-42a6-8e33-4d0a7b1543e4"
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "68"
+      }
+    ],
+    "tags": [
+      {
+        "text": "TypeScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=TypeScript"
+      },
+      {
+        "text": "TDD",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=TDD"
+      },
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      },
+      {
+        "text": "jasmine",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=jasmine"
+      },
+      {
+        "text": "Dependency Injection",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Dependency+Injection"
+      },
+      {
+        "text": "BDD",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=BDD"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Functional Programming in JavaScript",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=98b8fa8d-56f8-4117-be50-b2a97a3b8be5"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Troy Miles",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#TroyMiles"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=d05cc68f-3107-42a6-8e33-4d0a7b1543e4"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Unlike other programming languages, JavaScript straddles the line between imperative, object-oriented languages and functional ones. It was originally designed to be a version of the Scheme language for the browser. Which begs the questions, what if we programmed JavaScript functionally?"
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "160"
+      }
+    ],
+    "tags": [
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      },
+      {
+        "text": "Functional Programming",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Functional+Programming"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Functional Programming with Clojure",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=a73b85a3-9280-4c9a-bc30-4926953b3ef9"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Troy Miles",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#TroyMiles"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=d05cc68f-3107-42a6-8e33-4d0a7b1543e4"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "What if you are doing everything wrong? What if it is possible to write faster, more robust programs without creating crazily complicated classes? With functional programming all this and more is possible. Instead of classes, functions are the core object, but not functions like you know them. Think of them as functions on steroid. Stronger and smarter than normal functions."
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "51"
+      }
+    ],
+    "tags": [
+      {
+        "text": "JVM",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JVM"
+      },
+      {
+        "text": "Java",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Java"
+      },
+      {
+        "text": "Functional Programming",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Functional+Programming"
+      },
+      {
+        "text": "clojure",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=clojure"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Creating a Facebook and a Skype Bot using C#",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=c1ae40a7-d676-43c1-a7da-789d0be21ac4"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Michael Washington",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#MichaelWashington"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=3b7f6a92-3417-43e0-93a4-5f4e02fd9d99"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Using the Microsoft Bot Framework, you can easily create automated conversation Bots for Facebook Messenger and Skype."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "66"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Microsoft bot framework",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Microsoft+bot+framework"
+      },
+      {
+        "text": "Microsoft Bot connector",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=Microsoft+Bot+connector"
+      },
+      {
+        "text": "bots",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=bots"
+      },
+      {
+        "text": "botframework",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=botframework"
+      },
+      {
+        "text": "AI",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=AI"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Understanding the blockchain through Bitcoin",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=2decd2ec-eaab-438d-8576-77a8c19925e5"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Ryan Milbourne",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#RyanMilbourne"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=70a87403-5b0a-49c4-9348-29209bcb47e0"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Developer focused session on what a blockchain is, and how Bitcoin uses it to secure its transactions. This is a bitcoin 101 talk for developers. By the end of this talk you will have a basic understanding of cryptocurrencies that will dazzle and amaze your friends!"
+      }
+    ],
+    "interested": [
+      {
+        "text": "72"
+      }
+    ],
+    "tags": [
+      {
+        "text": "bitcoin blockchain crypto currencies cryptoanarchy",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=bitcoin+blockchain+crypto+currencies+cryptoanarchy"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Introduction to the Microsoft Bot Framework",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=940b530c-9b69-45b8-88ae-3411f8f44501"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Joe Mayo",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#JoeMayo"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=3e98fedb-766a-4426-a20c-c3d97144ba68"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "In this session, you'll see an overview of the Microsoft Bot Framework and learn how to create your own conversational user interface."
+      }
+    ],
+    "level": [
+      {
+        "text": "200"
+      }
+    ],
+    "interested": [
+      {
+        "text": "57"
+      }
+    ],
+    "tags": [
+      {
+        "text": "bots",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=bots"
+      },
+      {
+        "text": "botframework",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=botframework"
+      },
+      {
+        "text": "AI",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=AI"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "Accidentally DevOps : Continuous Integration for the .NET Developer",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=dc1f1182-9cf1-43b6-911d-c3956223f512"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Hattan Shobokshi",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#HattanShobokshi"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=0826193e-c1fe-463c-a1ec-a21d5fd60936"
+      }
+    ],
+    "level": [
+      {
+        "text": "300"
+      }
+    ],
+    "interested": [
+      {
+        "text": "59"
+      }
+    ],
+    "tags": [
+      {
+        "text": "devops",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=devops"
+      },
+      {
+        "text": ".NET",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=.NET"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "JavaScript Simplified: Closures, Prototypes, Promises, and more",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=53ed2b45-b496-42de-96d0-15a2df46aca4"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Hattan Shobokshi",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#HattanShobokshi"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=0826193e-c1fe-463c-a1ec-a21d5fd60936"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "Interested in Advanced JavaScript topics? In this talk we’ll look at some fundamental JavaScript concepts including closures, promises and prototypal inheritance. These will be gently introduced with real world examples & lots of code. You will learn how to use these features and when it’s appropriate to. Take your JavaScript skills to next level!"
+      }
+    ],
+    "level": [
+      {
+        "text": "100"
+      }
+    ],
+    "interested": [
+      {
+        "text": "133"
+      }
+    ],
+    "tags": [
+      {
+        "text": "JavaScript",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=JavaScript"
+      }
+    ]
+  },
+  {
+    "title": [
+      {
+        "text": "ASP.NET Core Deep Dive",
+        "href": "http://www.socalcodecamp.com/session.aspx?sid=47d2e196-3c6d-4006-8243-6ea6dd51d7e2"
+      }
+    ],
+    "speaker": [
+      {
+        "text": "Hattan Shobokshi",
+        "href": "http://www.socalcodecamp.com/presenters.aspx#HattanShobokshi"
+      }
+    ],
+    "photo": [
+      {
+        "src": "http://www.socalcodecamp.com/Avatar.ashx?Memberid=0826193e-c1fe-463c-a1ec-a21d5fd60936"
+      }
+    ],
+    "abstract": [
+      {
+        "text": "We'll take a detailed look at the tools you need to build an asp.net core app. We'll look at cross platform ability as well as new features in ASP.NET MVC Core This session will feature a lot of code samples and demos to help you get familiar with asp.net core and it's associated tools."
+      }
+    ],
+    "interested": [
+      {
+        "text": "87"
+      }
+    ],
+    "tags": [
+      {
+        "text": "ASP.NET",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=ASP.NET"
+      },
+      {
+        "text": ".NETCORE",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=.NETCORE"
+      },
+      {
+        "text": ".NET",
+        "href": "http://www.socalcodecamp.com/sessions.aspx?tag=.NET"
+      }
+    ]
+  }
+]
