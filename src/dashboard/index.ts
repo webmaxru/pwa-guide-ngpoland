@@ -5,7 +5,7 @@ import {BrowserModule} from '@angular/platform-browser';
 
 import {Component} from '@angular/core';
 import {Observable} from 'rxjs/Observable';
-//import {NgServiceWorker} from '@angular/service-worker';
+import {NgServiceWorker} from '@angular/service-worker';
 
 import 'rxjs/add/operator/scan';
 import 'rxjs/add/operator/startWith';
@@ -24,19 +24,14 @@ export class DashboardComponent {
     pushSub = null;
     pushes = [];
 
-    constructor(/*public sw: NgServiceWorker*/) {
-        //sw.log().subscribe(message => this.log.push(message));
+    constructor(public sw: NgServiceWorker) {
+        sw.log().subscribe(message => this.log.push(message));
     }
 
     actionSelected(action): void {
         this.action = action;
     }
 
-    request(url: string): void {
-        // fetch(url).then(resp => resp.text()).then(text => {
-        //   this.result = text;
-        // });
-    }
 
     refresh(action) {
         this.result = null;
@@ -50,13 +45,13 @@ export class DashboardComponent {
                 this.result = 'reset';
                 break;
             case 'FORCE_UPDATE':
-                // this
-                //   .sw
-                //   .checkForUpdate()
-                //   .subscribe(res => {
-                //     this.result = JSON.stringify(res);
-                //     this.alert = true;
-                //   });
+                this
+                  .sw
+                  .checkForUpdate()
+                  .subscribe(res => {
+                    this.result = JSON.stringify(res);
+                    this.alert = true;
+                  });
                 break;
             case 'CACHE_KEYS':
                 this.loadCacheKeys();
@@ -65,38 +60,38 @@ export class DashboardComponent {
                 this.checkServiceWorker();
                 break;
             case 'COMPANION_PING':
-                // this
-                //   .sw
-                //   .ping()
-                //   .subscribe(undefined, undefined, () => {
-                //     this.result = 'pong';
-                //     this.alert = true;
-                //   });
+                this
+                  .sw
+                  .ping()
+                  .subscribe(undefined, undefined, () => {
+                    this.result = 'pong';
+                    this.alert = true;
+                  });
                 break;
             case 'COMPANION_REG_PUSH':
-                // this
-                //   .sw
-                //   .registerForPush()
-                //   .subscribe(handler => {
-                //     this.result = JSON.stringify({
-                //       id: handler.id,
-                //       url: handler.url,
-                //       key: handler.key(),
-                //       auth: handler.auth()
-                //     });
-                //     this.alert = true;
-                //   });
+                this
+                  .sw
+                  .registerForPush()
+                  .subscribe(handler => {
+                    this.result = JSON.stringify({
+                      id: handler.id,
+                      url: handler.url,
+                      key: handler.key(),
+                      auth: handler.auth()
+                    });
+                    this.alert = true;
+                  });
                 break;
             case 'COMPANION_WAIT_FOR_PUSH':
-            // this.pushSub = this
-            //   .sw
-            //   .push
-            //   .take(1)
-            //   .map(value => JSON.stringify(value))
-            //   .subscribe(value => {
-            //     this.result = value;
-            //     this.alert = true;
-            //   });
+            this.pushSub = this
+              .sw
+              .push
+              .take(1)
+              .map(value => JSON.stringify(value))
+              .subscribe(value => {
+                this.result = value;
+                this.alert = true;
+              });
             default:
                 this.result = null;
         }
