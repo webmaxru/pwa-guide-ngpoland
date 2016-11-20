@@ -13,26 +13,21 @@ var common_1 = require("@angular/common");
 var forms_1 = require("@angular/forms");
 var platform_browser_1 = require("@angular/platform-browser");
 var core_2 = require("@angular/core");
-var service_worker_1 = require("@angular/service-worker");
 require("rxjs/add/operator/scan");
 require("rxjs/add/operator/startWith");
 var DashboardComponent = (function () {
-    function DashboardComponent(sw) {
-        var _this = this;
-        this.sw = sw;
+    function DashboardComponent() {
         this.result = null;
         this.action = '';
         this.alert = false;
         this.log = [];
         this.pushSub = null;
         this.pushes = [];
-        sw.log().subscribe(function (message) { return _this.log.push(message); });
     }
     DashboardComponent.prototype.actionSelected = function (action) {
         this.action = action;
     };
     DashboardComponent.prototype.refresh = function (action) {
-        var _this = this;
         this.result = null;
         if (this.pushSub !== null) {
             this.pushSub.unsubscribe();
@@ -43,54 +38,12 @@ var DashboardComponent = (function () {
                 this.alert = false;
                 this.result = 'reset';
                 break;
-            case 'FORCE_UPDATE':
-                this
-                    .sw
-                    .checkForUpdate()
-                    .subscribe(function (res) {
-                    _this.result = JSON.stringify(res);
-                    _this.alert = true;
-                });
-                break;
             case 'CACHE_KEYS':
                 this.loadCacheKeys();
                 break;
             case 'SW_CHECK':
                 this.checkServiceWorker();
                 break;
-            case 'COMPANION_PING':
-                this
-                    .sw
-                    .ping()
-                    .subscribe(undefined, undefined, function () {
-                    _this.result = 'pong';
-                    _this.alert = true;
-                });
-                break;
-            case 'COMPANION_REG_PUSH':
-                this
-                    .sw
-                    .registerForPush()
-                    .subscribe(function (handler) {
-                    _this.result = JSON.stringify({
-                        id: handler.id,
-                        url: handler.url,
-                        key: handler.key(),
-                        auth: handler.auth()
-                    });
-                    _this.alert = true;
-                });
-                break;
-            case 'COMPANION_WAIT_FOR_PUSH':
-                this.pushSub = this
-                    .sw
-                    .push
-                    .take(1)
-                    .map(function (value) { return JSON.stringify(value); })
-                    .subscribe(function (value) {
-                    _this.result = value;
-                    _this.alert = true;
-                });
             default:
                 this.result = null;
         }
@@ -145,7 +98,7 @@ DashboardComponent = __decorate([
         selector: 'dashboard',
         templateUrl: './dashboard.html',
     }),
-    __metadata("design:paramtypes", [service_worker_1.NgServiceWorker])
+    __metadata("design:paramtypes", [])
 ], DashboardComponent);
 exports.DashboardComponent = DashboardComponent;
 var DashboardModule = (function () {

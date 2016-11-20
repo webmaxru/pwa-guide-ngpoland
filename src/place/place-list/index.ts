@@ -19,7 +19,6 @@ export class PlaceListComponent implements OnInit {
             .getPlaces()
             .then(places => {
                 this.places = places;
-                console.log(this.places)
             });
         ;
     }

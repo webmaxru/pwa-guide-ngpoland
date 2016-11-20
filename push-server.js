@@ -10,16 +10,20 @@ var PORT = process.env.PORT || 8090;
 var webPush = require('web-push');
 
 // The GCM API key is AIzaSyDNlm9R_w_0FDGjSM1fzyx5I5JnJBXACqU
-webPush.setGCMAPIKey('AIzaSyDNlm9R_w_0FDGjSM1fzyx5I5JnJBXACqU');
+webPush.setVapidDetails(
+  'mailto:salnikov@gmail.com',
+  'BHe82datFpiOOT0k3D4pieGt1GU-xx8brPjBj0b22gvmwl-HLD1vBOP1AxlDKtwYUQiS9S-SDVGYe_TdZrYJLw8',
+  's-zBxZ1Kl_Y1Ac8_uBjwIjtLtG6qlJKOX5trtbanAhc'
+);
 
 app.use(express.static(__dirname));
 
 app.use(bodyParser.json());
 
 app.use("/push", function(req, res, next) {
-  console.log(res.body);
+  //console.log(res.body);
   if (req.body.action === 'subscribe') {
-    var endpoint = req.body.subscription.endpoint;
+    var endpoint = req.body.subscription;
 
     console.log(req);
 

@@ -1,6 +1,4 @@
-import {Component, Renderer, ViewChild, QueryList, ElementRef, AfterViewInit, NgZone, ApplicationRef} from '@angular/core'
-
-import 'rxjs/add/operator/do';
+import {Component} from '@angular/core'
 
 @Component({
     moduleId: module.id,
@@ -10,6 +8,6 @@ import 'rxjs/add/operator/do';
 })
 export class RootComponent {
 
-    title: String = 'ngPoland3';
+    title: String = 'ngPoland';
 
 }

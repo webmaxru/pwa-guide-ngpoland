@@ -8,7 +8,6 @@ import {PlaceModule} from './place';
 import {DashboardModule} from './dashboard';
 
 import {MaterialModule} from '@angular/material';
-import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
     bootstrap: [RootComponent],
@@ -23,7 +22,6 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
         DashboardModule,
 
         MaterialModule.forRoot(),
-        NgbModule.forRoot()
     ]
 })
 export class AppModule { }

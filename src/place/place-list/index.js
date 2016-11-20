@@ -20,7 +20,6 @@ var PlaceListComponent = (function () {
             .getPlaces()
             .then(function (places) {
             _this.places = places;
-            console.log(_this.places);
         });
         ;
     };

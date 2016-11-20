@@ -15,7 +15,6 @@ var root_1 = require("./root");
 var place_1 = require("./place");
 var dashboard_1 = require("./dashboard");
 var material_1 = require("@angular/material");
-var ng_bootstrap_1 = require("@ng-bootstrap/ng-bootstrap");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -33,7 +32,6 @@ AppModule = __decorate([
             place_1.PlaceModule,
             dashboard_1.DashboardModule,
             material_1.MaterialModule.forRoot(),
-            ng_bootstrap_1.NgbModule.forRoot()
         ]
     }),
     __metadata("design:paramtypes", [])

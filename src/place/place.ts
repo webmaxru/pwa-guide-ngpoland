@@ -1,6 +1,7 @@
 export class Place {
-  title: string;
-  description: string;
-  imgName: number;
-  reviews: Array<string>;
+    id: number;
+    title: string;
+    description: string;
+    imgName: number;
+    tags: Array<string>;
 }

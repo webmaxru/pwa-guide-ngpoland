@@ -5,7 +5,6 @@ import {BrowserModule} from '@angular/platform-browser';
 import {AppModule} from './app';
 import {RootComponent} from './root';
 
-import {WeatherAPI} from './weather/api';
 import {Storage, LocalStorage} from './storage';
 
 
@@ -17,7 +16,6 @@ import {Storage, LocalStorage} from './storage';
     AppModule
   ],
   providers: [
-    WeatherAPI,
     {provide: Storage, useClass: LocalStorage},
   ]
 })

@@ -13,7 +13,6 @@ var core_1 = require("@angular/core");
 var platform_browser_1 = require("@angular/platform-browser");
 var app_1 = require("./app");
 var root_1 = require("./root");
-var api_1 = require("./weather/api");
 var storage_1 = require("./storage");
 var AppBrowserModule = (function () {
     function AppBrowserModule() {
@@ -29,7 +28,6 @@ AppBrowserModule = __decorate([
             app_1.AppModule
         ],
         providers: [
-            api_1.WeatherAPI,
             { provide: storage_1.Storage, useClass: storage_1.LocalStorage },
         ]
     }),

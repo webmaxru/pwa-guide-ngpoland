@@ -4,13 +4,9 @@
   </label>
   <select #actionSelect id="actionSelect" (change)="actionSelected($event.target.value)">
     <option disabled selected>...</option>
-    <option value="MAKE_REQUEST">Make an HTTP request</option>
     <option value="CACHE_KEYS">Get cache keys</option>
     <option value="SW_CHECK">Check service worker</option>
     <option value="SW_INSTALL">Install service worker</option>
-    <option value="COMPANION_PING">Ping from the companion</option>
-    <option value="COMPANION_REG_PUSH">Register for push notifications</option>
-    <option value="FORCE_UPDATE">Force an update</option>
     <option value="RESET">Reset</option>
   </select>
   <span *ngIf="alert" id="alert">ASYNC ALERT</span>
@@ -20,15 +16,6 @@
 
 <!-- action configuration -->
 <div [ngSwitch]="action">
-  <div *ngSwitchCase="'MAKE_REQUEST'">
-    <div>
-      <label for="requestUrl">
-        Url:
-      </label>
-      <input #requestUrl id="requestUrl">
-    </div>
-    <button id="requestAction" (click)="request(requestUrl.value)">Make request</button>
-  </div>
   <div *ngSwitchCase="'SW_INSTALL'">
     <div>
       <label for="workerUrl">

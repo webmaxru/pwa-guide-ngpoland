@@ -7,21 +7,7 @@ import 'rxjs/add/observable/of';
 import {AppModule} from './app';
 import {RootComponent} from './root';
 
-import {WeatherAPI} from './weather/api';
-import {CITIES} from './weather/cities';
 import {Storage, InMemoryStorage} from './storage';
-
-@Injectable()
-export class FakeWeatherApi implements WeatherAPI {
-
-  fetchCities(): Observable<any> {
-    return Observable.of(CITIES);
-  }
-
-  fetchCity(city: string): Observable<any> {
-    return Observable.of({});
-  }
-}
 
 @NgModule({
   bootstrap: [RootComponent],
@@ -34,7 +20,6 @@ export class FakeWeatherApi implements WeatherAPI {
     }) as any as ModuleWithProviders,
   ],
   providers: [
-    {provide: WeatherAPI, useClass: FakeWeatherApi},
     {provide: Storage, useClass: InMemoryStorage},
   ],
 })
