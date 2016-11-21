@@ -4,8 +4,7 @@ import {CommonModule} from '@angular/common';
 import {RootComponent} from './root';
 
 import {PlaceModule} from './place';
-
-import {MaterialModule} from '@angular/material';
+import {PlaceService} from './place/place.service';
 
 @NgModule({
     bootstrap: [RootComponent],
@@ -15,9 +14,7 @@ import {MaterialModule} from '@angular/material';
     imports: [
         CommonModule,
 
-        PlaceModule,
-
-        MaterialModule.forRoot(),
+        PlaceModule
     ]
 })
 export class AppModule { }

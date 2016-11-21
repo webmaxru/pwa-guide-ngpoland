@@ -12,7 +12,6 @@ var core_1 = require("@angular/core");
 var common_1 = require("@angular/common");
 var root_1 = require("./root");
 var place_1 = require("./place");
-var material_1 = require("@angular/material");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -26,8 +25,7 @@ AppModule = __decorate([
         ],
         imports: [
             common_1.CommonModule,
-            place_1.PlaceModule,
-            material_1.MaterialModule.forRoot(),
+            place_1.PlaceModule
         ]
     }),
     __metadata("design:paramtypes", [])
