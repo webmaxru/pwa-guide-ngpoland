@@ -115,7 +115,7 @@ gulp.task('task:static', () => gulp
     'node_modules/@angular/material/core/theming/prebuilt/indigo-pink.css',
     'tmp/rollup/app.js',
     'tmp/app-shell/index.html',
-    'push-sw.js'
+    'sw.js'
   ])
   .pipe(gulp.dest('dist'))
 );

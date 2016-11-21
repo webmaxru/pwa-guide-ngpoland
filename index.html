@@ -20,10 +20,10 @@
 
         <script defer>
             if (navigator.serviceWorker) {
-                navigator.serviceWorker.register('/worker-basic.js').then(() => {
-                    console.log('Angular service worker installed')
+                navigator.serviceWorker.register('/sw.js').then(() => {
+                    console.log('Service worker installed')
                 }, err => {
-                    console.error('Angular service worker error:', err);
+                    console.error('Service worker error:', err);
                 });
             }
         </script>
