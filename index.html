@@ -18,16 +18,6 @@
         <script src="/Reflect.js" defer></script>
         <script src="/app.js" defer></script>
 
-        <script defer>
-            if (navigator.serviceWorker) {
-                navigator.serviceWorker.register('/sw.js').then(() => {
-                    console.log('Service worker installed')
-                }, err => {
-                    console.error('Service worker error:', err);
-                });
-            }
-        </script>
-
     </head>
 
     <body>
