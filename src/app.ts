@@ -1,4 +1,3 @@
-import {AppShellModule} from '@angular/app-shell';
 import {NgModule} from '@angular/core';
 import {CommonModule} from '@angular/common';
 
@@ -14,7 +13,6 @@ import {MaterialModule} from '@angular/material';
         RootComponent
     ],
     imports: [
-        AppShellModule,
         CommonModule,
 
         PlaceModule,

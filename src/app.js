@@ -8,7 +8,6 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
-var app_shell_1 = require("@angular/app-shell");
 var core_1 = require("@angular/core");
 var common_1 = require("@angular/common");
 var root_1 = require("./root");
@@ -26,7 +25,6 @@ AppModule = __decorate([
             root_1.RootComponent
         ],
         imports: [
-            app_shell_1.AppShellModule,
             common_1.CommonModule,
             place_1.PlaceModule,
             material_1.MaterialModule.forRoot(),
