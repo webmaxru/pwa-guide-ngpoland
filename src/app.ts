@@ -5,7 +5,6 @@ import {CommonModule} from '@angular/common';
 import {RootComponent} from './root';
 
 import {PlaceModule} from './place';
-import {DashboardModule} from './dashboard';
 
 import {MaterialModule} from '@angular/material';
 
@@ -19,7 +18,6 @@ import {MaterialModule} from '@angular/material';
         CommonModule,
 
         PlaceModule,
-        DashboardModule,
 
         MaterialModule.forRoot(),
     ]

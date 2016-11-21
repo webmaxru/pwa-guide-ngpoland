@@ -8,7 +8,6 @@
 
         </style>
         <link href="/indigo-pink.css" rel="stylesheet">
-        <link href="/bootstrap.css" rel="stylesheet">
 
         <script>
             var module = {
@@ -28,7 +27,7 @@
 
         <script defer>
             if (navigator.serviceWorker) {
-                navigator.serviceWorker.register('/push-sw.js').then(() => {
+                navigator.serviceWorker.register('/worker-basic.js').then(() => {
                     console.log('Angular service worker installed')
                 }, err => {
                     console.error('Angular service worker error:', err);
@@ -50,44 +49,5 @@
 
     <body>
         <app-root></app-root>
-        <button id="btnNotification">Push</button>
-        <script>
-
-            function urlBase64ToUint8Array(base64String) {
-                const padding = '='.repeat((4 - base64String.length % 4) % 4);
-                const base64 = (base64String + padding).replace(/\-/g, '+').replace(/_/g, '/');
-
-                const rawData = window.atob(base64);
-                const outputArray = new Uint8Array(rawData.length);
-
-                for (let i = 0; i < rawData.length; ++i) {
-                    outputArray[i] = rawData.charCodeAt(i);
-                }
-                return outputArray;
-            }
-
-            const vapidPublicKey = 'BHe82datFpiOOT0k3D4pieGt1GU-xx8brPjBj0b22gvmwl-HLD1vBOP1AxlDKtwYUQiS9S-SDVGYe_TdZrYJLw8';
-            const convertedVapidKey = urlBase64ToUint8Array(vapidPublicKey);
-
-            document.querySelector('#btnNotification').addEventListener('click', (e) => {
-
-                // Request permission to send notifications
-                Notification.requestPermission().then(() => {
-                    // Get a reference to the SW
-                    return navigator.serviceWorker.ready;
-                }).then((sw) => {
-                    // Tell it to subscribe with the push server
-                    return sw.pushManager.subscribe({userVisibleOnly: true, applicationServerKey: convertedVapidKey});
-                }).then((subscription) => {
-                    // Send details about the subscription to the server
-                    return fetch('http://localhost:8090/push', {
-                        method: 'POST',
-                        body: JSON.stringify({action: 'subscribe', subscription: subscription}),
-                        headers: new Headers({'Content-Type': 'application/json'})
-                    });
-                });
-            });
-        </script>
-
     </body>
 </html>
